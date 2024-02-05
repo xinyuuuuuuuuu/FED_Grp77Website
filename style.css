@@ -1,0 +1,12 @@
+/* nav bar && logo */
+.container1 {
+    display: flex;
+    align-items: center;
+  }
+
+  /* styling for nav */
+.nav{
+    font-size:25px;
+    font-family: "IM FELL French Canon SC";
+    color:white;
+  }
