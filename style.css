@@ -1,12 +1,83 @@
-/* nav bar && logo */
-.container1 {
-    display: flex;
-    align-items: center;
-  }
+/* Home page */
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
 
-  /* styling for nav */
-.nav{
-    font-size:25px;
-    font-family: "IM FELL French Canon SC";
-    color:white;
-  }
+.nav-opt a {
+  text-decoration: none;
+  color: white;
+  font-size: 25px;
+  margin: 0 20px;
+  padding: 0 10px;
+  font-family: 'IM Fell French Canon SC', serif;
+}
+
+.round-image {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.logo-image {
+  height: 150px;
+  width: auto;
+}
+
+.home-image-container {
+  position: relative;
+  width: 100vw; /* Full width of the viewport */
+  height: 100vh; /* Full height of the viewport */
+  overflow: hidden; /* Hide overflowing content */
+}
+
+.home-image{
+  width: 100vw; /* 100% of viewport width */
+  height: 100vh; /* 100% of viewport height */
+  object-fit: cover; /* Maintain aspect ratio and cover the entire container */
+  object-position: center center; /* Center the image */
+}
+
+.text-tagline1 {
+  position: absolute;
+  top: 40%;
+  right: 34%;
+  transform: translate(-50%, -50%);
+  text-align: left;
+  font-size: 60px;
+  font-family: 'Overlock', sans-serif;
+  padding: 10px;
+}
+
+.text-tagline2 {
+  position: absolute;
+  top: 60%; /* Adjust the top property to position it below text-tagline1 */
+  right: 48%;
+  transform: translate(-50%, -50%);
+  text-align: left;
+  font-size: 35px;
+  font-family: 'Nunito', light;
+  padding: 10px;
+  line-height: 0.5; /* Adjust as needed, lower values reduce spacing */
+}
+
+.text-tagline2-center{
+  text-align: center;
+}
+
+.login-container {
+  display: flex;
+  align-items: center; /* Align vertically in the center */
+  margin-right: 5px; /* Adjust the margin to control the distance */
+}
+
+.nav-opt.login {
+  font-size: 25px;
+  margin: 0;
+  padding: 0 10px;
+  font-family: 'IM Fell French Canon SC', serif;
+  color: white;
+}
