@@ -1,4 +1,5 @@
-/* Home page */
+/* ------Home page----- */
+/* nav bar */
 .nav-container {
   display: flex;
   justify-content: space-between;
@@ -15,6 +16,21 @@
   font-family: 'IM Fell French Canon SC', serif;
 }
 
+.login-container {
+  display: flex;
+  align-items: center; /* Align vertically in the center */
+  margin-right: 5px; /* Adjust the margin to control the distance */
+}
+
+.nav-opt.login {
+  font-size: 25px;
+  margin: 0;
+  padding: 0 10px;
+  font-family: 'IM Fell French Canon SC', serif;
+  color: white;
+}
+
+/* styling for empty profile */
 .round-image {
   height: 50px;
   width: 50px;
@@ -22,11 +38,13 @@
   object-fit: cover;
 }
 
+/* styling for logo */
 .logo-image {
   height: 150px;
   width: auto;
 }
 
+/* styling for home image */
 .home-image-container {
   position: relative;
   width: 100vw; /* Full width of the viewport */
@@ -41,6 +59,7 @@
   object-position: center center; /* Center the image */
 }
 
+/* tagline in image */
 .text-tagline1 {
   position: absolute;
   top: 40%;
@@ -68,16 +87,87 @@
   text-align: center;
 }
 
-.login-container {
+/* about us section */
+.section-container {
   display: flex;
-  align-items: center; /* Align vertically in the center */
-  margin-right: 5px; /* Adjust the margin to control the distance */
+  align-items: center;
+  margin-top: 20px; /* Adjust the margin as needed */
 }
 
-.nav-opt.login {
-  font-size: 25px;
-  margin: 0;
-  padding: 0 10px;
-  font-family: 'IM Fell French Canon SC', serif;
+.about-us-image {
+  width: 450px; /* Adjust the width of the image */
+  height: 450px; /* Maintain aspect ratio */
+  margin-right: 25px; /* Adjust the margin between image and text */
+}
+
+.section-content {
+  flex-grow: 1; /* Allow the content to grow and fill the available space */
+}
+
+.about-us-title {
+  color: black;
+  font-family: 'Overlock', sans-serif;
+  font-size: 60px;
+  margin-bottom: 15px; /* Adjust as needed */
+  text-align: left;
+  margin-left: 240px;
+}
+
+.about-us-text {
   color: white;
+  font-family: 'Nunito', sans-serif;
+  font-size: 18px;
+  text-align: left;
+  box-sizing: border-box;
+  margin-right: 70px;
+}
+
+.about-us-button {
+  text-align: center;
+  margin-top: 10px; /* Adjust the margin to control the distance from the text */
+}
+
+.section-link {
+  background-color: #FFBD59;
+  color: black;
+  border: none;
+  padding: 10px 20px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 8px;
+  font-family: 'Alegreya Sans', sans-serif; 
+}
+
+/* business owners section */
+.business-owners-image {
+  width: 450px; /* Adjust the width of the image */
+  height: 450px; /* Maintain aspect ratio */
+  margin-right: 20px; /* Adjust the margin between image and text */
+}
+
+.business-owners-title {
+  color: black;
+  font-family: 'Overlock', sans-serif;
+  font-size: 60px;
+  margin-bottom: 15px; /* Adjust as needed */
+  text-align: left;
+  margin-left: 160px;
+}
+
+.business-owners-text {
+  color: white;
+  font-family: 'Nunito', sans-serif;
+  font-size: 18px;
+  text-align: left;
+  box-sizing: border-box;
+  margin-right: 70px;
+  margin-left: 80px;
+}
+
+.business-owners-button {
+  text-align: center;
+  margin-top: 10px; /* Adjust the margin to control the distance from the text */
+  margin-right:50px;
 }

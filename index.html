@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+French+Canon+SC&display=swap">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Overlock&display=swap">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap">
+    <link rel="stylesheet" href="https://fonts.google.com/specimen/Alegreya+Sans?query=alegreya+sans">
 
     <style>
         body {
@@ -22,8 +23,8 @@
     <!--nav options-->
     <div class="nav-container">
         <div class="login-container">
-            <img src="C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\website_img\empty_profile.png" alt="Empty Profile" class="round-image"> 
-            <p class ="nav-opt login">Login</p>
+            <img src="website_img/empty_profile.png" alt="Empty Profile" class="round-image"> 
+            <p class ="nav-opt login"><a href>Login</a></p>
         </div>
         <p class="nav-opt">
             <a href="index.html">Home</a>
@@ -31,12 +32,12 @@
             <a href="stores.html">Stores</a>
             <a href="support.html">Support</a>
         </p>
-        <img src="C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\website_img\logo_png_fin.png" alt="Logo Image" class="logo-image">
+        <img src="website_img/logo_img.png" alt="Logo Image" class="logo-image">
     </div>
 
     <!--home image-->
     <div class="home-image-container">
-        <img src="C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\website_img\home_img_finale_upscale.png" alt="Home Image" class="home-image">
+        <img src="website_img/home_img.png" alt="Home Image" class="home-image">
         <div class="text-tagline1">
             <b><i>Your Ultimate Destination</i>
             </b><br>
@@ -49,10 +50,108 @@
         </div>
     </div>
 
-    <img src ="C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\website_img\about_us_img_fin.png" alt="About Us" class="about-us-image">
+    <br></br><br></br>
+
+    <!--about us section-->
+    <div class="section-container">
+        <img src="website_img/about_us_image_ps.png" alt="About Us" class="about-us-image">
+        <div class="section-content">
+            <p class="about-us-title"><b><i>About us</i></b></p>
+            <div class="about-us-text">
+                <p>
+                    Greetings and welcome to Timeless Market, your go-to source for a wide range of retail product reviews. 
+                    Get real user experiences and expert insights, engage with a vibrant community, and stay ahead of trends. 
+                    With the timeless market, you will be exposed to new treasures in Singapore that you have yet to find and 
+                    also discover a carefully chosen universe of the greatest goods in a range of categories. Ready to elevate 
+                    your shopping experience? Join our community today by subscribing to Timeless Market!
+                </p>
+                <p class="about-us-button">
+                    <a href="subscribe.html" class="section-link">Subscribe</a>
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <br></br>
+
+    <!--business owners section-->
+    <div class="section-container">
+        <div class="business-owners-content">
+            <p class="business-owners-title"><b><i>Business Owners</i></b></p>
+            <div class="business-owners-text">
+                <p>
+                    Attention, ambitious business owners! At Timeless Market, your products are not just showcased – 
+                    they're embraced with honest, sincere reviews within your supportive community. Let the power of authentic 
+                    feedback propel your brand to new heights. Seize the opportunity and fill out our evaluation form today to 
+                    set your business on the path to success!
+                </p>
+                <p class="business-owners-button">
+                    <a href="subscribe.html" class="section-link">Submit</a>
+                </p>
+            </div>
+        </div>
+        <img src="website_img/business_owners_image.png" alt="Business Owners" class="business-owners-image">
+    </div>
+
+    <br></br>
+    
+    <!-- Slideshow to display different stores -->
+    <div class="slideshow-container">
+
+        <!-- Full-width images with number and caption text -->
+    <div class="mySlides fade">
+        <p class="career-slides"><i>The Seven Year Itch</i></p>
+        <img src="seven-year-itch.jpeg" style="width:50%">
+    </div>
+    
+    <div class="mySlides fade">
+        <p class="career-slides"><i>Bus Stop</i></p>
+        <img src="bus-stop.jpg" style="width:50%">
+    </div>
+    
+    <div class="mySlides fade">
+        <p class="career-slides"><i>Some Like It Hot</i></p>
+        <img src="some-like-it-hot.jpg" style="width:50%">
+    </div>
+    
+    <div class="mySlides fade">
+        <p class="career-slides"><i>Dangerous Years</i></p>
+        <img src="dangerous-years.jpg" style="width:50%">
+    </div>
+    
+    <div class="mySlides fade">
+        <p class="career-slides"><i>The Shocking Miss Pilgrim</i></p>
+        <img src="shocking-miss-pilgrim.jpg" style="width:50%">
+    </div>
+    
+    <div class="mySlides fade">
+        <p class="career-slides"><i>Ladies of the Chorus</i></p>
+        <img src="ladies-of-the-chorus.jpg" style="width:50%">
+    </div>
+    
+    <!-- Next and previous buttons -->
+    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+    </div>
+    <br>
+    
+    <!-- The dots/circles -->
+    <div style="text-align:center">
+        <span class="dot" onclick="currentSlide(1)"></span>
+        <span class="dot" onclick="currentSlide(2)"></span>
+        <span class="dot" onclick="currentSlide(3)"></span>
+        <span class="dot" onclick="currentSlide(4)"></span>
+        <span class="dot" onclick="currentSlide(5)"></span>
+        <span class="dot" onclick="currentSlide(6)"></span>
+    </div>
+    
+    <script src="slideshow.js"></script>
+    
+    <br></br>
 
 
-
+    
+    
 
 
 </body>
