@@ -336,3 +336,22 @@
 .social-media-text {
   font-size: 15px;
 }
+
+/* ------Sign-up page----- */
+.sign-up-container {
+  display: flex;
+  align-items: center;
+}
+
+.sign-up-image {
+  flex: 0 0 auto;
+  margin-right: 150px; 
+  margin-left: 50px;
+  margin-top: 150px;
+  width: 40%;
+  height:40%;
+}
+
+.sign-up-text {
+  flex: 1;
+}
