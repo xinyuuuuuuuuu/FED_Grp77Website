@@ -175,6 +175,7 @@
   margin-right:50px;
 }
 
+<<<<<<< HEAD
 /* support.html */
 .support-container{
   text-align: center;
@@ -222,4 +223,166 @@
   height: 40px;
   background-color: #ffff;
   border: 1px solid #000;
+=======
+/* statements about stores */
+.statement-title {
+  color: black;
+  font-family: 'Overlock', sans-serif;
+  font-size: 60px;
+  margin-top: 150px;
+  text-align: center;
+  margin-bottom: 35px;
+}
+
+.slide-title{
+  color: black;
+  font-size: 45px;
+  font-family: 'Overlock', sans-serif;
+}
+
+/* slideshow section */
+* {box-sizing:border-box}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  font-family: 'Nunito', sans-serif;
+  margin-right: 35px;
+  margin-top: 0; /* Adjust the negative margin as needed */
+}
+
+.text a {
+  color: white; 
+  font-size: 40px;
+  text-decoration: none;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 10px;
+  width: 10px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+/* styling for image & text */
+/* Slide content container */
+.slide-content {
+  display: flex; /* Use flexbox */
+  align-items: center; /* Center items vertically */
+  margin-top: 20px;
+}
+
+/* Adjust the image size if needed */
+.slide-content img {
+  width: 50%; /* Adjust as needed */
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Adjust the text styles */
+.slide-content .text {
+  padding-left: 100px; /* Add some space between the image and text */
+  font-size: 16px; /* Adjust font size as needed */
+  margin-right: 65px;
+}
+
+/* social media platforms */
+.social-media-title{
+  font-family: 'Algreya Sans';
+  font-size: 15px;
+  text-decoration: underline;
+  text-align: center;
+  font-weight: 600;
+}
+
+.social-media-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color:  #354F52;
+}
+
+.social-media-opt {
+  text-decoration: none;
+  color: black;
+  font-size: 25px;
+  font-family: 'Algreya Sans';
+  display: flex; /* Make container a flex container */
+  align-items: center; /* Align items vertically */
+  font-weight: 500;
+}
+
+.social-media-img {
+  height: 40px; /* Adjust as needed */
+  width: 40px; /* Adjust as needed */
+  border-radius: 15px;
+  margin-right: 10px; /* Add margin to separate image and text */
+}
+
+.social-media-text {
+  font-size: 15px;
+>>>>>>> 58246ce8971d6dc830fe358b6c83aa99a6ae4190
 }
