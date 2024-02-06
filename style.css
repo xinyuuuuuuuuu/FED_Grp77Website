@@ -175,6 +175,55 @@
   margin-right:50px;
 }
 
+<<<<<<< HEAD
+/* support.html */
+.support-container{
+  text-align: center;
+}
+
+.support-image{
+  width: 35%;
+  height: 35%;
+  display: inline-block;
+}
+
+.support-text{
+  color: black;
+  font-family: 'Overlock', sans-serif;
+  font-size: 40px;
+  letter-spacing: -2px; /* to bring text closer */
+}
+
+.support-comment{
+  border: 1px solid #000;
+  /*margin-top: 100px;*/
+  width: 35%;
+  margin: 20px auto;
+  padding: 10px 20px;
+}
+
+.comment-form input, .comment-form textarea{
+  width: 100%;
+  padding: 10px;
+  margin: 15px 0;
+  display: inline-block;
+  box-sizing: border-box;
+  
+
+}
+
+/*.comment-form button{
+  margin: 10px 0;
+}*/
+
+.support-submitbtn{
+  margin: 10px 0;
+  font-size: 17px;
+  width: 20%;
+  height: 40px;
+  background-color: #ffff;
+  border: 1px solid #000;
+=======
 /* statements about stores */
 .statement-title {
   color: black;
@@ -335,6 +384,7 @@
 
 .social-media-text {
   font-size: 15px;
+>>>>>>> 58246ce8971d6dc830fe358b6c83aa99a6ae4190
 }
 
 /* ------Sign-up page----- */
