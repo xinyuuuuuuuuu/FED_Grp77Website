@@ -212,10 +212,6 @@
 
 }
 
-/*.comment-form button{
-  margin: 10px 0;
-}*/
-
 .support-submitbtn{
   margin: 10px 0;
   font-size: 17px;
@@ -224,6 +220,7 @@
   background-color: #ffff;
   border: 1px solid #000;
 }
+
 /* statements about stores */
 .statement-title {
   color: black;
@@ -479,4 +476,19 @@
   .business-owners-text {
     font-size: 18px;
   }
+}
+
+/* subscribe_cust.html */
+.subscribe-image{
+  width: 40%;
+  height: 40%;
+  margin-top: 100px;
+  margin-left: 50px;
+}
+
+.subsribe-container h1{
+  color: black;
+  font-family: 'Overlock', sans-serif;
+  font-size: 40px;
+  letter-spacing: -2px; /* to bring text closer */
 }
