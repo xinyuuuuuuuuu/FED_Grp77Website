@@ -175,6 +175,8 @@
   margin-right:50px;
 }
 
+<<<<<<< HEAD
+=======
 /* support.html */
 .support-container{
   text-align: center;
@@ -229,6 +231,7 @@
   
 }
 
+>>>>>>> 60bd37227e338908a570434ce66ee886b612740a
 /* statements about stores */
 .statement-title {
   color: black;
@@ -416,6 +419,51 @@
   flex: 1;
 }
 
+/* support.html */
+.support-container{
+  text-align: center;
+}
+
+.support-image{
+  width: 35%;
+  height: 35%;
+  display: inline-block;
+  align-items: center;
+}
+
+.support-text{
+  color: black;
+  font-family: 'Overlock', sans-serif;
+  font-size: 40px;
+  letter-spacing: -2px; /* to bring text closer */
+}
+
+.support-comment{
+  border: 1px solid #000;
+  /*margin-top: 100px;*/
+  width: 35%;
+  margin: 20px auto;
+  padding: 10px 20px;
+}
+
+.comment-form input, .comment-form textarea{
+  width: 100%;
+  padding: 10px;
+  margin: 15px 0;
+  display: inline-block;
+  box-sizing: border-box;
+}
+
+/*.comment-form button */
+.support-submitbtn{
+  margin: 10px 0;
+  font-size: 17px;
+  width: 20%;
+  height: 40px;
+  background-color: #ffff;
+  border: 1px solid #000;
+}
+
 /* responsive app */
 /* Common styles */
 /* Add common styles that apply to all screen sizes here */
@@ -492,6 +540,69 @@
   }
 }
 
+<<<<<<< HEAD
+/* sign-up page */.sign-up-container {
+  display: flex;
+  align-items: center; /* Align items vertically */
+}
+
+.sign-up-form-container {
+  flex: 1; /* Take up remaining space */
+  padding: 20px;
+}
+
+.sign-up-image-container {
+  flex: 1; /* Take up remaining space */
+  text-align: center; /* Center the image */
+}
+
+.sign-up-image-container img {
+  max-width: 80%; /* Ensure image does not exceed container width */
+  height: auto; /* Maintain aspect ratio */
+}
+
+.sign-up-title1 {
+  color: black;
+  font-family: 'Overlock', sans-serif;
+  font-size: 60px;
+  text-align: right;
+  margin-right: 110px;
+  margin-bottom: 0px;
+}
+
+.sign-up-title2 {
+  color: black;
+  font-family: 'Nunito', light;
+  font-size: 25px;
+  text-align: right;
+  margin-right: 110px;
+  margin-top: 0px;
+}
+
+.sign-up-section {
+  border: 1px solid #000;
+  width: 70%; /* Adjust width as needed */
+  margin: 20px auto; /* Center the form container */
+  padding: 20px;
+}
+
+.sign-up-form input {
+  padding: 10px;
+  margin: 15px 0;
+  display: inline-block;
+  box-sizing: border-box;
+  width: 100%; /* Make input fields fill the container width */
+}
+
+.sign-up-btn {
+  margin-top: 15px;
+  font-size: 17px;
+  width: 100%; /* Make button fill the container width */
+  height: 40px;
+  background-color: #ffff;
+  border: 1px solid #000;
+}
+=======
 /* subscribe_cust.html */
 .subscribe_cust-container{
   text-align: center;
@@ -688,6 +799,7 @@ h2{
   margin-left: 50%;
 }
 
+<<<<<<< HEAD
 /* Stores.html */
 .search-cat{
   display: flex;
@@ -777,3 +889,6 @@ P{
 /*@media screen and (max-width: 600px){
   .search-cat{}
 }*/
+=======
+>>>>>>> 60bd37227e338908a570434ce66ee886b612740a
+>>>>>>> 86fe0504681ecde369a84b5df74cb093dd8c3e5e
