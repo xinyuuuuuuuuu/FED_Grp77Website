@@ -208,8 +208,6 @@
   margin: 15px 0;
   display: inline-block;
   box-sizing: border-box;
-  
-
 }
 
 .support-submitbtn{
@@ -219,6 +217,14 @@
   height: 40px;
   background-color: #ffff;
   border: 1px solid #000;
+}
+
+.support-submitbtn:hover{  /* hover effect for button */
+  background-color: #FFBD59;
+}
+
+@media (max-width: 768px){
+  
 }
 
 /* statements about stores */
@@ -354,12 +360,18 @@
   font-weight: 600;
 }
 
-.social-media-container {
+.title-section, .social-media-container {
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 20px;
   background-color:  #354F52;
+  text-align: center;
+}
+
+.title-section{
+  display: flex;
+  justify-content: center;
 }
 
 .social-media-opt {
@@ -479,16 +491,122 @@
 }
 
 /* subscribe_cust.html */
-.subscribe-image{
-  width: 40%;
-  height: 40%;
-  margin-top: 100px;
-  margin-left: 50px;
+.subscribe_cust-container{
+  text-align: center;
 }
 
-.subsribe-container h1{
+.subscribe_cust-image{
+  width: 50%;
+  height: 50%;
+  margin-top: 100px;
+  margin-left: 20px;
+}
+
+.subscribe_cust-header{
+  color: black;
+  font-family: 'Overlock', sans-serif;
+  font-size: 60px;
+  letter-spacing: 3px; /* to bring text closer */
+}
+
+.subscribe_cust-text{
   color: black;
   font-family: 'Overlock', sans-serif;
   font-size: 40px;
-  letter-spacing: -2px; /* to bring text closer */
+  margin-top: -5%;
+}
+
+.subscribe_cust-comment{
+  border: 1px solid #000;
+  width: 35%;
+  margin: 20px auto;
+  padding: 10px 20px;
+  margin-left: 33%;
+}
+
+.subscribe_cust-submitbtn{
+  margin: 10px 0;
+  font-size: 17px;
+  width: 20%;
+  height: 40px;
+  background-color: #ffff;
+  border: 1px solid #000;
+}
+
+/*.subscribe_cust-submitbtn:active{
+  transform: scale(0.98rem);
+}*/
+
+.subscribe_cust-submitbtn:hover{ /* hover effect for button */
+  background-color: #FFBD59;
+}
+
+.subscribe_cust-container.hide{
+  display: none;
+}
+
+.sub_cust-successmsg-tick{
+  width: 20%;
+}
+
+.sub_cust-successmsg{
+  width: 40%;
+  padding: 2rem;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 5px 10px 5px rgba(0,0,0,0.5);
+}
+
+.sub_cust-successmsg h2{
+  color: #000;
+  margin: 1rem 0;
+  line-height: 1.5;
+}
+
+.sub_cust-successmsg p{
+  line-height: 1.5;
+}
+
+.sub_cust-successmsg button{
+  outline: none;
+  border: none;
+  margin: 2rem 0;
+  background-color: #F7EDF0;
+  font-size: 0.9rem;
+  padding: 0.9rem 0;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 100%;
+}
+
+.sub_cust-successmsg.hide{
+  display: none;
+}
+
+@media (max-width: 768px){
+  .subscribe_cust-container{
+    flex-direction: column;
+    padding: 0;
+    margin: 0;
+    height: 750px;
+  }
+  .subscribe_cust-image{
+    width: 80%;
+    margin-top: 90px;
+  }
+  .subscribe_cust-comment{
+    border: 1px solid #000;
+    width: 60%;
+    margin: 20px auto;
+    padding: 10px 20px;
+    margin-left: 20%;
+  }
+  .subscribe_cust-submitbtn{
+    margin: 10px 0;
+    font-size: 17px;
+    width: 25%;
+    height: 40px;
+    background-color: #ffff;
+    border: 1px solid #000;
+  }
 }
