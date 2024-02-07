@@ -211,7 +211,8 @@
 }
 
 .support-submitbtn{
-  margin: 10px 0;
+  display: block;
+  margin: 0 auto;  /* center the button */
   font-size: 17px;
   width: 20%;
   height: 40px;
@@ -517,73 +518,57 @@
   margin-top: -5%;
 }
 
-.subscribe_cust-comment{
+.subscribe_cust-box{
+  width: 40%;
+  border: 2px solid #000;
+  border-radius: 20px;
+  padding: 40px;
+  background-color: white;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  margin: 0 auto; /* to make the box centralised */ 
+}
+
+/*.subscribe_cust-comment{
   border: 1px solid #000;
   width: 35%;
   margin: 20px auto;
   padding: 10px 20px;
   margin-left: 33%;
+}*/
+
+.subscribe_cust-form{
+  margin-top: 20px;
+  text-align: left;
 }
 
-.subscribe_cust-subscribebtn{
-  margin: 10px 0;
-  font-size: 17px;
-  width: 20%;
-  height: 40px;
-  background-color: #ffff;
+label{
+  display: block;
+  margin-bottom: 5px;
+  color:black;
+}
+
+input{
+  width: 50%;
+  padding: 5px;
+  margin-bottom: 15px;
+  box-sizing: border-box;
   border: 1px solid #000;
+  border-radius: 5px;
+}
+
+button{
+  display: block;
+  margin: 0 auto; /* center the button */
+  background-color: white;
+  color: black;
+  padding: 10px 20px;
+  cursor: pointer;
   transition: #F7EDF0 0.3s;
 }
 
-/*.subscribe_cust-submitbtn:active{
-  transform: scale(0.98rem);
-}*/
-
-.subscribe_cust-subscribebtn:hover{ /* hover effect for button */
+button:hover{ /* hover effect for button */
   background-color: #FFBD59;
 }
-
-/*.subscribe_cust-container.hide{
-  display: none;
-}
-
-.sub_cust-successmsg-tick{
-  width: 20%;
-}
-
-.sub_cust-successmsg{
-  width: 40%;
-  padding: 2rem;
-  background-color: white;
-  border-radius: 10px;
-  box-shadow: 5px 10px 5px rgba(0,0,0,0.5);
-}
-
-.sub_cust-successmsg h2{
-  color: #000;
-  margin: 1rem 0;
-  line-height: 1.5;
-}
-
-.sub_cust-successmsg p{
-  line-height: 1.5;
-}
-
-.sub_cust-successmsg button{
-  outline: none;
-  border: none;
-  margin: 2rem 0;
-  background-color: #F7EDF0;
-  font-size: 0.9rem;
-  padding: 0.9rem 0;
-  border-radius: 5px;
-  cursor: pointer;
-  width: 100%;
-}
-
-.sub_cust-successmsg.hide{
-  display: none;
-} */
 
 @media (width: 600px){
   .subscribe_cust-container{
@@ -614,26 +599,94 @@
 }
 
 /* login.html */
+.login-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
 .login-image{
   width: 50%;
   height: 50%;
-  margin-top: 100px;
-  margin-left: 25%;
+  margin-top: 80px;
 }
 
 .login-header{
-  color: black;
+  color: #000;
   font-family: 'Overlock', sans-serif;
   font-size: 60px;
-  letter-spacing: 3px; /* to bring text closer */
-  margin-top: 100px;
-  margin-right: 50%;
+  margin-top: -5px;
 }
 
 .login-text{
   color: black;
   font-family: 'Overlock', sans-serif;
-  font-size: 40px;
+  font-size: 30px;
   margin-top: -5%;
+}
+
+.login-box{
+  width:60%;
+  border: 2px solid #000;
+  border-radius: 20px;
+  padding: 40px;
+  background-color: white;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.login-form{
+  margin-top: 20px;
+}
+
+label{
+  display: block;
+  margin-bottom: 5px;
+  color:black;
+}
+
+input{
+  width: 100%;
+  padding: 3px;
+  margin-bottom: 15px;
+  box-sizing: border-box;
+  border: 1px solid #000;
+  border-radius: 5px;
+}
+
+button{
+  background-color: white;
+  color: black;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: #F7EDF0 0.3s;
+}
+
+button:hover{
+  background-color: #FFBD59;
+}
+
+/* welcome.html */
+.welcome-container{
+  text-align: center
+}
+
+h1{
+  margin-top: 15%;
+  font-size: 70px;
+  font-family: 'Overlock', sans-serif;
+  font-style: italic;
+}
+
+h2{
+  margin-top: -3%;
+  font-size: 40px;
+  font-family: 'Nunito', light;
+}
+
+.welcome-img{
+  width: 30%;
+  height: 30%;
+  margin-left: 50%;
 }
 
