@@ -57,24 +57,24 @@
   width: 100vw; /* 100% of viewport width */
   height: 100vh; /* 100% of viewport height */
   object-fit: cover; /* Maintain aspect ratio and cover the entire container */
-  object-position: center center; /* Center the image */
+  object-position:center; /* Center the image */
 }
 
-/* tagline in image */
 .text-tagline1 {
   position: absolute;
-  top: 40%;
-  right: 34%;
+  top: 40%; /* Adjust the vertical position */
+  left: 29.5%; /* Adjust the horizontal position */
   transform: translate(-50%, -50%);
-  text-align: left;
-  font-size: 60px;
+  text-align: right;
+  font-size: 100px;
   font-family: 'Overlock', sans-serif;
   padding: 10px;
 }
 
+
 .text-tagline2 {
   position: absolute;
-  top: 60%; /* Adjust the top property to position it below text-tagline1 */
+  top: 55%; /* Adjust to position it below the first tagline */
   right: 48%;
   transform: translate(-50%, -50%);
   text-align: left;
@@ -84,7 +84,7 @@
   line-height: 0.5; /* Adjust as needed, lower values reduce spacing */
 }
 
-.text-tagline2-center{
+.text-tagline2-center {
   text-align: center;
 }
 
@@ -233,7 +233,7 @@
 .statement-title {
   color: black;
   font-family: 'Overlock', sans-serif;
-  font-size: 60px;
+  font-size: 50px;
   margin-top: 150px;
   text-align: center;
   margin-bottom: 35px;
@@ -795,4 +795,4 @@ h2{
   margin-left: 50%;
 }
 
->>>>>>> 60bd37227e338908a570434ce66ee886b612740a
+
