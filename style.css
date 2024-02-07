@@ -175,55 +175,6 @@
   margin-right:50px;
 }
 
-/* support.html */
-.support-container{
-  text-align: center;
-}
-
-.support-image{
-  width: 35%;
-  height: 35%;
-  display: inline-block;
-  align-items: center;
-}
-
-.support-text{
-  color: black;
-  font-family: 'Overlock', sans-serif;
-  font-size: 40px;
-  letter-spacing: -2px; /* to bring text closer */
-}
-
-.support-comment{
-  border: 1px solid #000;
-  /*margin-top: 100px;*/
-  width: 35%;
-  margin: 20px auto;
-  padding: 10px 20px;
-}
-
-.comment-form input, .comment-form textarea{
-  width: 100%;
-  padding: 10px;
-  margin: 15px 0;
-  display: inline-block;
-  box-sizing: border-box;
-  
-
-}
-
-/*.comment-form button{
-  margin: 10px 0;
-}*/
-
-.support-submitbtn{
-  margin: 10px 0;
-  font-size: 17px;
-  width: 20%;
-  height: 40px;
-  background-color: #ffff;
-  border: 1px solid #000;
-}
 /* statements about stores */
 .statement-title {
   color: black;
@@ -405,6 +356,51 @@
   flex: 1;
 }
 
+/* support.html */
+.support-container{
+  text-align: center;
+}
+
+.support-image{
+  width: 35%;
+  height: 35%;
+  display: inline-block;
+  align-items: center;
+}
+
+.support-text{
+  color: black;
+  font-family: 'Overlock', sans-serif;
+  font-size: 40px;
+  letter-spacing: -2px; /* to bring text closer */
+}
+
+.support-comment{
+  border: 1px solid #000;
+  /*margin-top: 100px;*/
+  width: 35%;
+  margin: 20px auto;
+  padding: 10px 20px;
+}
+
+.comment-form input, .comment-form textarea{
+  width: 100%;
+  padding: 10px;
+  margin: 15px 0;
+  display: inline-block;
+  box-sizing: border-box;
+}
+
+/*.comment-form button */
+.support-submitbtn{
+  margin: 10px 0;
+  font-size: 17px;
+  width: 20%;
+  height: 40px;
+  background-color: #ffff;
+  border: 1px solid #000;
+}
+
 /* responsive app */
 /* Common styles */
 /* Add common styles that apply to all screen sizes here */
@@ -479,4 +475,62 @@
   .business-owners-text {
     font-size: 18px;
   }
+}
+
+/* sign-up page */.sign-up-container {
+  display: flex;
+  align-items: center; /* Align items vertically */
+}
+
+.sign-up-form-container {
+  flex: 1; /* Take up remaining space */
+  padding: 20px;
+}
+
+.sign-up-image-container {
+  flex: 1; /* Take up remaining space */
+  text-align: center; /* Center the image */
+}
+
+.sign-up-image-container img {
+  max-width: 70%; /* Ensure image does not exceed container width */
+  height: auto; /* Maintain aspect ratio */
+}
+
+.sign-up-title1 {
+  color: black;
+  font-family: 'Overlock', sans-serif;
+  font-size: 60px;
+  text-align: right;
+}
+
+.sign-up-title2 {
+  color: black;
+  font-family: 'Nunito', light;
+  font-size: 25px;
+  text-align: right;
+}
+
+.sign-up-section {
+  border: 1px solid #000;
+  width: 70%; /* Adjust width as needed */
+  margin: 20px auto; /* Center the form container */
+  padding: 20px;
+}
+
+.sign-up-form input {
+  padding: 10px;
+  margin: 15px 0;
+  display: inline-block;
+  box-sizing: border-box;
+  width: 100%; /* Make input fields fill the container width */
+}
+
+.sign-up-btn {
+  margin-top: 15px;
+  font-size: 17px;
+  width: 100%; /* Make button fill the container width */
+  height: 40px;
+  background-color: #ffff;
+  border: 1px solid #000;
 }
