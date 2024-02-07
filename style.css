@@ -217,6 +217,7 @@
   height: 40px;
   background-color: #ffff;
   border: 1px solid #000;
+  transition: #F7EDF0 0.3s;
 }
 
 .support-submitbtn:hover{  /* hover effect for button */
@@ -524,20 +525,21 @@
   margin-left: 33%;
 }
 
-.subscribe_cust-submitbtn{
+.subscribe_cust-subscribebtn{
   margin: 10px 0;
   font-size: 17px;
   width: 20%;
   height: 40px;
   background-color: #ffff;
   border: 1px solid #000;
+  transition: #F7EDF0 0.3s;
 }
 
 /*.subscribe_cust-submitbtn:active{
   transform: scale(0.98rem);
 }*/
 
-.subscribe_cust-submitbtn:hover{ /* hover effect for button */
+.subscribe_cust-subscribebtn:hover{ /* hover effect for button */
   background-color: #FFBD59;
 }
 
@@ -583,7 +585,7 @@
   display: none;
 }
 
-@media (max-width: 768px){
+@media (width: 600px){
   .subscribe_cust-container{
     flex-direction: column;
     padding: 0;
@@ -610,3 +612,5 @@
     border: 1px solid #000;
   }
 }
+
+/**/
