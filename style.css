@@ -219,6 +219,7 @@
   background-color: #ffff;
   border: 1px solid #000;
   transition: #F7EDF0 0.3s;
+  align-items: center;
 }
 
 .support-submitbtn:hover{  /* hover effect for button */
