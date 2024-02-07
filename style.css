@@ -175,8 +175,6 @@
   margin-right:50px;
 }
 
-<<<<<<< HEAD
-=======
 /* support.html */
 .support-container{
   text-align: center;
@@ -231,7 +229,6 @@
   
 }
 
->>>>>>> 60bd37227e338908a570434ce66ee886b612740a
 /* statements about stores */
 .statement-title {
   color: black;
@@ -601,6 +598,7 @@
   background-color: #ffff;
   border: 1px solid #000;
 }
+=======
 /* subscribe_cust.html */
 .subscribe_cust-container{
   text-align: center;
@@ -637,12 +635,10 @@
   margin: 0 auto; /* to make the box centralised */ 
 }
 
-/*.subscribe_cust-comment{
-  border: 1px solid #000;
-  width: 35%;
-  margin: 20px auto;
-  padding: 10px 20px;
-  margin-left: 33%;
+/*h1{
+  font-size: 40px;
+  font-family: 'Overlock', sans-serif;
+
 }*/
 
 .subscribe_cust-form{
@@ -799,84 +795,4 @@ h2{
   margin-left: 50%;
 }
 
-/* stores page */.main-title {
-  color: black;
-  font-family: 'Overlock', sans-serif;
-  font-size: 60px;
-  text-align: center;
-}
-
-.sotm-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  margin-top: 50px;
-}
-
-.sotm-rectangle {
-  width: 800px;
-  height: 60px;
-  background-color: #354F52;
-  text-align: left;
-  display: flex;
-  justify-content: flex-start;
-  align-items: center;
-  margin-bottom: 0;
-}
-
-.sotm-text-inside {
-  font-size: 20px;
-  font-weight: bold;
-  color: white;
-  font-family: 'Overlock', sans-serif;
-  margin-left: 20px;
-}
-
-.sotm-image-container {
-  width: 800px;
-  height: 650px;
-  margin-bottom: 0;
-}
-
-.sotm-image-container img {
-  width: 800px;
-  height: 650px;
-}
-
-.sotm-text-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  margin-top: 0;
-}
-
-.sotm-content-inside {
-  font-size: 40px;
-  font-weight: bold;
-  color: black;
-  text-align: left;
-  font-family: "Crimson Text";
-  margin-left: 20px;
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-.sotm-link {
-  display: block; /* Ensures the link appears on a new line */
-  color: black;
-  font-size: 15px;
-  font-family: "Crimson Text";
-  text-decoration: none;
-  margin-top: 10px; /* Added margin-top for spacing */
-}
-
-.sotm-content-rectangle {
-  width: 800px;
-  padding: 20px; /* Added padding for spacing */
-  background-color: white;
-  text-align: left;
-  margin-top: 0;
-  margin-bottom: 0;
-}
+>>>>>>> 60bd37227e338908a570434ce66ee886b612740a
