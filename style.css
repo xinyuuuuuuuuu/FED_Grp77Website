@@ -543,7 +543,7 @@
   background-color: #FFBD59;
 }
 
-.subscribe_cust-container.hide{
+/*.subscribe_cust-container.hide{
   display: none;
 }
 
@@ -583,7 +583,7 @@
 
 .sub_cust-successmsg.hide{
   display: none;
-}
+} */
 
 @media (width: 600px){
   .subscribe_cust-container{
@@ -613,4 +613,27 @@
   }
 }
 
-/**/
+/* login.html */
+.login-image{
+  width: 50%;
+  height: 50%;
+  margin-top: 100px;
+  margin-left: 25%;
+}
+
+.login-header{
+  color: black;
+  font-family: 'Overlock', sans-serif;
+  font-size: 60px;
+  letter-spacing: 3px; /* to bring text closer */
+  margin-top: 100px;
+  margin-right: 50%;
+}
+
+.login-text{
+  color: black;
+  font-family: 'Overlock', sans-serif;
+  font-size: 40px;
+  margin-top: -5%;
+}
+
