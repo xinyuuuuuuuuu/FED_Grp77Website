@@ -528,12 +528,10 @@
   margin: 0 auto; /* to make the box centralised */ 
 }
 
-/*.subscribe_cust-comment{
-  border: 1px solid #000;
-  width: 35%;
-  margin: 20px auto;
-  padding: 10px 20px;
-  margin-left: 33%;
+/*h1{
+  font-size: 40px;
+  font-family: 'Overlock', sans-serif;
+
 }*/
 
 .subscribe_cust-form{
@@ -690,3 +688,92 @@ h2{
   margin-left: 50%;
 }
 
+/* Stores.html */
+.search-cat{
+  display: flex;
+  align-items: baseline;
+  justify-content: flex-end; /* align items to the right */
+  margin-right: 20px;
+  margin-top: 30px;
+}
+
+.search-cat input{
+  padding: 10px;
+  border: 1px solid #000;
+  border-radius: 10px;
+  width: 180px;
+  height: 50px;
+}
+
+.stores_search-icon{
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+  margin-left: 5px;
+}
+
+.store-header-container{
+  text-align: center;
+}
+
+h1{
+  color: #000;
+  font-size: 'Overlock', sans-serif;
+  font-size: 60px;
+  margin-top: 2%;
+  letter-spacing: 1px;
+}
+
+P{
+  color: #000;
+  font-size: 'Overlock', sans-serif;
+  font-size: 40px;
+  line-height: 1;
+}
+
+.store-title{
+  background-color: #354F52;
+  padding: 10px;
+}
+
+.store-name{
+  color: white;
+  font-family: 'Overlock', sans-serif;
+  font-style: italic;
+  font-size: 30px;
+}
+
+.bbbh-img{
+  width: 100%;
+}
+
+.bbbh-textsec-container{
+  background-color: white;
+  padding: 100px;
+}
+
+.bbbh-item{
+  font-size: 30px;
+  font-family: 'Overlock', sans-serif;
+  font-weight: bold;
+  margin-top: -50px;
+  margin-left: -80px;  
+}
+
+.bbbh-thumbsup{
+  width: 5%;
+  height: 30px;
+  margin-top: -10%;
+  margin-left: 90%;
+}
+
+
+
+
+
+
+
+/*@media screen and (max-width: 600px){
+  .search-cat{}
+}*/
