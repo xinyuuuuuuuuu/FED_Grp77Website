@@ -175,8 +175,6 @@
   margin-right:50px;
 }
 
-<<<<<<< HEAD
-=======
 /* support.html */
 .support-container{
   text-align: center;
@@ -231,7 +229,6 @@
   
 }
 
->>>>>>> 60bd37227e338908a570434ce66ee886b612740a
 /* statements about stores */
 .statement-title {
   color: black;
@@ -540,7 +537,6 @@
   }
 }
 
-<<<<<<< HEAD
 /* sign-up page */.sign-up-container {
   display: flex;
   align-items: center; /* Align items vertically */
@@ -602,7 +598,7 @@
   background-color: #ffff;
   border: 1px solid #000;
 }
-=======
+
 /* subscribe_cust.html */
 .subscribe_cust-container{
   text-align: center;
@@ -799,7 +795,6 @@ h2{
   margin-left: 50%;
 }
 
-<<<<<<< HEAD
 /* Stores.html */
 .search-cat{
   display: flex;
@@ -889,6 +884,4 @@ P{
 /*@media screen and (max-width: 600px){
   .search-cat{}
 }*/
-=======
->>>>>>> 60bd37227e338908a570434ce66ee886b612740a
->>>>>>> 86fe0504681ecde369a84b5df74cb093dd8c3e5e
+
