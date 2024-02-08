@@ -16,6 +16,11 @@
             margin: 0;
             padding: 0;
         }
+
+        welcome-container {
+            opacity: 1;
+            transition: opacity 1s ease;
+        }
     </style>
 </head>
 <body>
@@ -26,4 +31,16 @@
         <h2>welcomes you!</h2>
         <img src="website_img/welcome_img.png" alt="Welcome Image" class="welcome-img">
     </div>
+
+    <script>
+        // Function to fade out the welcome container and redirect to another page after a specified delay
+        setTimeout(function() {
+            var welcomeContainer = document.querySelector(".welcome-container");
+            welcomeContainer.style.transition = "opacity 1s ease";
+            welcomeContainer.style.opacity = "0";
+            setTimeout(function() {
+                window.location.href = "index.html"; // Change the URL to the page you want to redirect to
+            }, 1000); // Wait for 1 second for the fade-out animation to complete
+        }, 2000); // 
+    </script>
 </body>
