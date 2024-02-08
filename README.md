@@ -1,6 +1,8 @@
 # FED_Grp77Website: Timeless Market
 "Timeless Market" is the name of our website. As the name implies, our website ought to be a place where customers can discover goods that endure in a world that is constantly changing. Nonetheless, things will always pass unnoticed if they are not brought to people's attention, such as the amazing local businesses that provide customers with their amazing products and services. Hence, our website aims to give these local businesses a place for their products to shine and also for consumers to have a look at the unnoticed treasure in Sigapore through our reviews. We display the various local businesses in various categories on our website, including fashion, hobbies, art, thrift stores, food, and jewelry. We will primarily provide reviews of the stores so that users have the opportunity to experience the products through our eyes and reviews. In an effort to be communicative with our users, we offer features like a comment section where users can express their ideas and opinions to us and other users on the website. We also have a page where users can report problems they've encountered with the website or leave recommendations for improvements.
 
+[Link to our website](https://xinyuuuuuuuuu.github.io/FED_Grp77Website/)
+
 <hr>
 
 # Design Process
@@ -14,7 +16,7 @@ The next is the "stores" page. The main focus of the website is this page. On th
 
 The "support" page is the final page. This page's objective is to provide a forum for users to offer suggestions for this website or if there are other local businesses they would like to see us review. They can also report any bugs or issues they discover with the website here.
 
-[Link to website wireframe]()
+[Link to website wireframe](https://www.figma.com/file/5tBXLHYk3Rgs9WfJA3LsEN/timeless_market?type=design&node-id=0%3A1&mode=design&t=ExJWR0lb5nnvrq6l-1)
 
 <hr>
 
