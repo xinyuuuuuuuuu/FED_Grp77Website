@@ -2,7 +2,7 @@
 "Timeless Market" is the name of our website. As the name implies, our website ought to be a place where customers can discover goods that endure in a world that is constantly changing. Nonetheless, things will always pass unnoticed if they are not brought to people's attention, such as the amazing local businesses that provide customers with their amazing products and services. Hence, our website aims to give these local businesses a place for their products to shine and also for consumers to have a look at the unnoticed treasure in Sigapore through our reviews. We display the various local businesses in various categories on our website, including fashion, hobbies, art, thrift stores, food, and jewelry. We will primarily provide reviews of the stores so that users have the opportunity to experience the products through our eyes and reviews. In an effort to be communicative with our users, we offer features like a comment section where users can express their ideas and opinions to us and other users on the website. We also have a page where users can report problems they've encountered with the website or leave recommendations for improvements.
 
 
-#Design Process
+# Design Process
 Our goal is for small local businesses in Singapore to be discovered by more people so that they may gain customers and build their reputation. "How do we capture the hearts of the users so that they may be interested in the businesses?" is something we thought a lot about. Eventually, we came to the conclusion that people are most influenced by the reviews and words of others. If we were to give a sincere and genuine review for these local businesses, the users would be able to see it and give these local businesses a chance by trying out their products. With that in mind, we started designing the website. This website is divided into four sections.
 
 First, let's look at the "Home" page. This page provides a quick overview of our website and explains what we can do for users and business owners. Visitors to our website have the option to subscribe in order to receive notifications on the latest reviews from us. After they have subscribed to our website, they may log into their account whenever they want. Business owners also have the option of sending us relevant details about their business so that we can look into it and write a review.
@@ -16,7 +16,7 @@ The "support" page is the final page. This page's objective is to provide a foru
 [Link to website wireframe]()
 
 
-#Features
+# Features
 Feature 1: Subscription/Login/Business Details Form
 These pages gather appropriate user information and store it in a restdb.io API. First, this allows us to notify subscribers about our latest review and log into their accounts. Secondly, it allows business owners to submit relevant business information so that we can review their products.
 
@@ -33,7 +33,7 @@ Feature 6: Suggestion/Issue Box
 A platform for users to suggest areas of improvement or businesses they would like us to review next, as well as issues found on the website.
 
 
-#Technologies Used
+# Technologies Used
 1. Figma
 Figma was used to visualize the website and to provide a direction for how the website should look by creating the wireframes.
 
@@ -50,7 +50,7 @@ An API is used to show users the physical store location.
 For quality images
 
 
-#Credits 
+# Credits 
 =====_Business Information Submission Page_=====
 Source: [Canva](https://www.bing.com/ck/a?!&&p=3926450b066ab31aJmltdHM9MTcwNzI2NDAwMCZpZ3VpZD0zYmE3NTVjMC1iNzcxLTYwZGItMjU0MS00NjBiYjYzNDYxNTgmaW5zaWQ9NTIxNg&ptn=3&ver=2&hsh=3&fclid=3ba755c0-b771-60db-2541-460bb6346158&psq=canva&u=a1aHR0cHM6Ly93d3cuY2FudmEuY29tLw&ntb=1)
 [Image]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\subscribe_business_img.png")
