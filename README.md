@@ -57,6 +57,14 @@ For quality images
 <hr>
 
 # Credits 
+<h2><b> Login Profile</b><br></h2>
+Image Source: [Google] <br>
+(https://fleetview.linkalock.com/images/profile-pic.png)<br><br><br>
+
+<h2><b>_Website Logo_</b><br></h2>
+Image Source: [Canva] <br>
+https://www.bing.com/ck/a?!&&p=3926450b066ab31aJmltdHM9MTcwNzI2NDAwMCZpZ3VpZD0zYmE3NTVjMC1iNzcxLTYwZGItMjU0MS00NjBiYjYzNDYxNTgmaW5zaWQ9NTIxNg&ptn=3&ver=2&hsh=3&fclid=3ba755c0-b771-60db-2541-460bb6346158&psq=canva&u=a1aHR0cHM6Ly93d3cuY2FudmEuY29tLw&ntb=1 <br><br><br>
+
 <h2><b>_Business Information Submission Page_</b><br></h2>
 Image Source: [Canva] <br>
 https://www.bing.com/ck/a?!&&p=3926450b066ab31aJmltdHM9MTcwNzI2NDAwMCZpZ3VpZD0zYmE3NTVjMC1iNzcxLTYwZGItMjU0MS00NjBiYjYzNDYxNTgmaW5zaWQ9NTIxNg&ptn=3&ver=2&hsh=3&fclid=3ba755c0-b771-60db-2541-460bb6346158&psq=canva&u=a1aHR0cHM6Ly93d3cuY2FudmEuY29tLw&ntb=1 <br><br><br>
@@ -85,9 +93,9 @@ Image Source: 6. [thebudboxsg instagram](https://www.instagram.com/p/CydDZ1lOP0m
 
 
 <h2><b>_Specials of the Month Page_</h2><br>
-Image Source: 1. [brownedbutterbakedhouse instagram](https://www.instagram.com/p/CcvBcDHvn_V/)<br><br>
-Image Source: 2. [knottedbuns instagram](https://www.instagram.com/p/CKbe2OZrHtL/)<br>
-Image Source: 3. [bybeu_co instagram](https://www.instagram.com/p/C2CPOqQSB7O/)<br><br><br>
+Image Source: 1. [brownedbutterbakedhouse instagram] https://www.instagram.com/p/CcvBcDHvn_V/ <br><br>
+Image Source: 2. [knottedbuns instagram] https://www.instagram.com/p/CKbe2OZrHtL/ <br>
+Image Source: 3. [bybeu_co instagram] https://www.instagram.com/p/C2CPOqQSB7O/ <br><br><br>
 
 
 <h2><b>_Stores Page_</b><br></h2>
@@ -97,6 +105,7 @@ Image Source: 2. [knottedbuns instagram](https://www.instagram.com/p/CKbe2OZrHtL
 Image Source: 3. [bybeu_co instagram](https://www.instagram.com/p/C2CPOqQSB7O/)<br><br><br>
 
 
-/<h2><b>_Support Page_</b><br></h2>
-Image Source: [Canva](https://www.bing.com/ck/a?!&&p=3926450b066ab31aJmltdHM9MTcwNzI2NDAwMCZpZ3VpZD0zYmE3NTVjMC1iNzcxLTYwZGItMjU0MS00NjBiYjYzNDYxNTgmaW5zaWQ9NTIxNg&ptn=3&ver=2&hsh=3&fclid=3ba755c0-b771-60db-2541-460bb6346158&psq=canva&u=a1aHR0cHM6Ly93d3cuY2FudmEuY29tLw&ntb=1)
+<h2><b>_Support Page_</b><br></h2>
+Image Source: [Canva] <br>
+(https://www.bing.com/ck/a?!&&p=3926450b066ab31aJmltdHM9MTcwNzI2NDAwMCZpZ3VpZD0zYmE3NTVjMC1iNzcxLTYwZGItMjU0MS00NjBiYjYzNDYxNTgmaW5zaWQ9NTIxNg&ptn=3&ver=2&hsh=3&fclid=3ba755c0-b771-60db-2541-460bb6346158&psq=canva&u=a1aHR0cHM6Ly93d3cuY2FudmEuY29tLw&ntb=1)
 <br><br>
