@@ -67,23 +67,16 @@ Image Source: [Canva](https://www.bing.com/ck/a?!&&p=3926450b066ab31aJmltdHM9MTc
 
 [SlideShow Images]<br>
 Image Source: 1. [wardrobeofjoy instagram](https://www.instagram.com/p/C242qc-SFNL/?img_index=1)<br>
-
 Image Source: 2. [avominsg instagram](https://www.instagram.com/p/CvrIBpPSNBc/?img_index=1)<br>
-
 Image Source: 3. [kibblesart instagram](https://www.instagram.com/p/Cz71lferajV/)<br>
-
 Image Source: 4. [anteikustudios instagram](https://www.instagram.com/p/C15xdYHRLt9/?img_index=1)<br>
-
 Image Source: 5. [injiniousgold instagram](https://www.instagram.com/p/CniWTkLBZyL/)<br>
-
 Image Source: 6. [thebudboxsg instagram](https://www.instagram.com/p/CydDZ1lOP0m/)<br><br>
 
 
-=====_Specials of the Month Page_=====<br>
+=====<b>_Specials of the Month Page_</b>=====<br>
 Image Source: 1. [brownedbutterbakedhouse instagram](https://www.instagram.com/p/CcvBcDHvn_V/)<br><br>
-
 Image Source: 2. [knottedbuns instagram](https://www.instagram.com/p/CKbe2OZrHtL/)<br>
-
 Image Source: 3. [bybeu_co instagram](https://www.instagram.com/p/C2CPOqQSB7O/)<br><br>
 
 
