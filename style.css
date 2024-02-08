@@ -670,6 +670,7 @@ button{
   padding: 10px 20px;
   cursor: pointer;
   transition: #F7EDF0 0.3s;
+  text-decoration: none;
 }
 
 button:hover{ /* hover effect for button */
