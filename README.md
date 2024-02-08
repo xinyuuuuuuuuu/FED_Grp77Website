@@ -52,57 +52,44 @@ For quality images
 
 # Credits 
 =====_Business Information Submission Page_=====<br>
-Source: [Canva](https://www.bing.com/ck/a?!&&p=3926450b066ab31aJmltdHM9MTcwNzI2NDAwMCZpZ3VpZD0zYmE3NTVjMC1iNzcxLTYwZGItMjU0MS00NjBiYjYzNDYxNTgmaW5zaWQ9NTIxNg&ptn=3&ver=2&hsh=3&fclid=3ba755c0-b771-60db-2541-460bb6346158&psq=canva&u=a1aHR0cHM6Ly93d3cuY2FudmEuY29tLw&ntb=1) <br>
+Image Source: [Canva](https://www.bing.com/ck/a?!&&p=3926450b066ab31aJmltdHM9MTcwNzI2NDAwMCZpZ3VpZD0zYmE3NTVjMC1iNzcxLTYwZGItMjU0MS00NjBiYjYzNDYxNTgmaW5zaWQ9NTIxNg&ptn=3&ver=2&hsh=3&fclid=3ba755c0-b771-60db-2541-460bb6346158&psq=canva&u=a1aHR0cHM6Ly93d3cuY2FudmEuY29tLw&ntb=1) <br>
 
 =====_Subscribe & Login Page_===== <br>
-Source: [Canva](https://www.bing.com/ck/a?!&&p=3926450b066ab31aJmltdHM9MTcwNzI2NDAwMCZpZ3VpZD0zYmE3NTVjMC1iNzcxLTYwZGItMjU0MS00NjBiYjYzNDYxNTgmaW5zaWQ9NTIxNg&ptn=3&ver=2&hsh=3&fclid=3ba755c0-b771-60db-2541-460bb6346158&psq=canva&u=a1aHR0cHM6Ly93d3cuY2FudmEuY29tLw&ntb=1) <br>
+Image Source: [Canva](https://www.bing.com/ck/a?!&&p=3926450b066ab31aJmltdHM9MTcwNzI2NDAwMCZpZ3VpZD0zYmE3NTVjMC1iNzcxLTYwZGItMjU0MS00NjBiYjYzNDYxNTgmaW5zaWQ9NTIxNg&ptn=3&ver=2&hsh=3&fclid=3ba755c0-b771-60db-2541-460bb6346158&psq=canva&u=a1aHR0cHM6Ly93d3cuY2FudmEuY29tLw&ntb=1) <br>
 
 =====_Welcome Page_=====<br>
-Source: [Canva](https://www.bing.com/ck/a?!&&p=3926450b066ab31aJmltdHM9MTcwNzI2NDAwMCZpZ3VpZD0zYmE3NTVjMC1iNzcxLTYwZGItMjU0MS00NjBiYjYzNDYxNTgmaW5zaWQ9NTIxNg&ptn=3&ver=2&hsh=3&fclid=3ba755c0-b771-60db-2541-460bb6346158&psq=canva&u=a1aHR0cHM6Ly93d3cuY2FudmEuY29tLw&ntb=1) <br>
+Image Source: [Canva](https://www.bing.com/ck/a?!&&p=3926450b066ab31aJmltdHM9MTcwNzI2NDAwMCZpZ3VpZD0zYmE3NTVjMC1iNzcxLTYwZGItMjU0MS00NjBiYjYzNDYxNTgmaW5zaWQ9NTIxNg&ptn=3&ver=2&hsh=3&fclid=3ba755c0-b771-60db-2541-460bb6346158&psq=canva&u=a1aHR0cHM6Ly93d3cuY2FudmEuY29tLw&ntb=1) <br>
 
 =====_Home Page_===== <br>
 Information on stores reviewed: Generated from [ChatGPT](https://chat.openai.com/)<br>
 
-Source: [Canva](https://www.bing.com/ck/a?!&&p=3926450b066ab31aJmltdHM9MTcwNzI2NDAwMCZpZ3VpZD0zYmE3NTVjMC1iNzcxLTYwZGItMjU0MS00NjBiYjYzNDYxNTgmaW5zaWQ9NTIxNg&ptn=3&ver=2&hsh=3&fclid=3ba755c0-b771-60db-2541-460bb6346158&psq=canva&u=a1aHR0cHM6Ly93d3cuY2FudmEuY29tLw&ntb=1) <br>
-1. [Home image]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\home_img.png")<br>
-2. [Subscribe image]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\about_us_image_ps.png")<br>
-3. [Business Submit image]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\business_owners_image.png")<br>
+Image Source: [Canva](https://www.bing.com/ck/a?!&&p=3926450b066ab31aJmltdHM9MTcwNzI2NDAwMCZpZ3VpZD0zYmE3NTVjMC1iNzcxLTYwZGItMjU0MS00NjBiYjYzNDYxNTgmaW5zaWQ9NTIxNg&ptn=3&ver=2&hsh=3&fclid=3ba755c0-b771-60db-2541-460bb6346158&psq=canva&u=a1aHR0cHM6Ly93d3cuY2FudmEuY29tLw&ntb=1) <br>
 
 [SlideShow Images]<br>
-Source: [wardrobeofjoy instagram](https://www.instagram.com/p/C242qc-SFNL/?img_index=1)<br>
-1. [wardrobeofjoy]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\fashion_slideshow.png")<br>
+Image Source: 1. [wardrobeofjoy instagram](https://www.instagram.com/p/C242qc-SFNL/?img_index=1)<br>
 
-Source: [avominsg instagram](https://www.instagram.com/p/CvrIBpPSNBc/?img_index=1)<br>
-2. [avominsg]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\food_slideshow.png")<br>
+Image Source: 2. [avominsg instagram](https://www.instagram.com/p/CvrIBpPSNBc/?img_index=1)<br>
 
-Source: [kibblesart instagram](https://www.instagram.com/p/Cz71lferajV/)<br>
-3. [kibblesart]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\art_slideshow.png")<br>
+Image Source: 3. [kibblesart instagram](https://www.instagram.com/p/Cz71lferajV/)<br>
 
-Source: [anteikustudios instagram](https://www.instagram.com/p/C15xdYHRLt9/?img_index=1)<br>
-4. [anteikustudios]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\thrift_shops_slideshow.png")<br>
+Image Source: 4. [anteikustudios instagram](https://www.instagram.com/p/C15xdYHRLt9/?img_index=1)<br>
 
-Source: [injiniousgold instagram](https://www.instagram.com/p/CniWTkLBZyL/)<br>
-5. [injiniousgold]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\jewelry_slideshow.png")<br>
+Image Source: 5. [injiniousgold instagram](https://www.instagram.com/p/CniWTkLBZyL/)<br>
 
-Source: [thebudboxsg instagram](https://www.instagram.com/p/CydDZ1lOP0m/)<br>
-6. [thebudboxsg]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\hobbies_slideshow.png")<br>
+Image Source: 6. [thebudboxsg instagram](https://www.instagram.com/p/CydDZ1lOP0m/)<br>
 
 
 =====_Specials of the Month Page_=====<br>
-Source:[brownedbutterbakedhouse instagram](https://www.instagram.com/p/CcvBcDHvn_V/)<br>
-1. [brownedbutterbakedhouse]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\sotm_food.png")<br>
+Image Source: 1. [brownedbutterbakedhouse instagram](https://www.instagram.com/p/CcvBcDHvn_V/)<br><br>
 
-Source:[knottedbuns instagram](https://www.instagram.com/p/CKbe2OZrHtL/)
-2. [knottedbuns]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\sotm_hobbies.png")
+Image Source: 2. [knottedbuns instagram](https://www.instagram.com/p/CKbe2OZrHtL/)<br>
 
-Source:[bybeu_co instagram](https://www.instagram.com/p/C2CPOqQSB7O/)
-3. [bybeu_co]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\sotm_fashion.png")
+Image Source: 3. [bybeu_co instagram](https://www.instagram.com/p/C2CPOqQSB7O/)<br>
 
 
 =====_Stores Page_=====
-Review Content:  Generated from [ChatGPT](https://chat.openai.com/)
+Review Content:  Generated from [ChatGPT](https://chat.openai.com/)<br>
 
 
-=====_Stores Page_=====
-Source: [Canva](https://www.bing.com/ck/a?!&&p=3926450b066ab31aJmltdHM9MTcwNzI2NDAwMCZpZ3VpZD0zYmE3NTVjMC1iNzcxLTYwZGItMjU0MS00NjBiYjYzNDYxNTgmaW5zaWQ9NTIxNg&ptn=3&ver=2&hsh=3&fclid=3ba755c0-b771-60db-2541-460bb6346158&psq=canva&u=a1aHR0cHM6Ly93d3cuY2FudmEuY29tLw&ntb=1)
-[Image]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\support_img.png")
+=====_Stores Page_=====<br>
+Image Source: [Canva](https://www.bing.com/ck/a?!&&p=3926450b066ab31aJmltdHM9MTcwNzI2NDAwMCZpZ3VpZD0zYmE3NTVjMC1iNzcxLTYwZGItMjU0MS00NjBiYjYzNDYxNTgmaW5zaWQ9NTIxNg&ptn=3&ver=2&hsh=3&fclid=3ba755c0-b771-60db-2541-460bb6346158&psq=canva&u=a1aHR0cHM6Ly93d3cuY2FudmEuY29tLw&ntb=1)
