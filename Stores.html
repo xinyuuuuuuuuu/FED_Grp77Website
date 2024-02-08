@@ -4,6 +4,27 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--map-->
+    <script src='https://api.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.css' rel='stylesheet' />
+    <script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.0/mapbox-gl-directions.js"></script>
+    <link href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.0/mapbox-gl-directions.css" rel="stylesheet" />
+    <style>
+    #map{
+        height: 100vh;
+        width: 100vw;
+    }
+    /*.marker{
+        background-image: url('location-marker.png');
+        background-size: cover;
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        cursor: pointer;
+    }*/
+    </style>
+
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+French+Canon+SC&display=swap">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Overlock&display=swap">
@@ -20,6 +41,7 @@
 </head>
 <body>
 
+
     <!--nav options-->
     <div class="nav-container">
         <div class="login-container">
@@ -34,3 +56,197 @@
         </p>
         <img src="website_img/logo_img.png" alt="Logo Image" class="logo-image">
     </div>
+
+    <!--search bar-->
+    <div class="search-cat">
+        <form action="">
+            <input type="text" placeholder="search for category">
+            <img src="website_img/search-icon.png" alt="Search Icon" class="stores_search-icon">
+        </form>
+    </div>
+
+    <!--intro text-->
+    <div class="intro-text">
+        <h1>welcome to timeless market!</h1>
+        <p>Welcome to Timeless Market! 
+            Explore a diverse range of stores offering unique experiences. 
+            Click on a store's profile to uncover curated collections and hidden gems. 
+            Let the timeless allure of our market captivate your senses as you embark on a delightful journey of discovery.
+             Happy exploring!
+        </p>
+    </div>
+
+    <!--bbbh-->
+    <div class="bbbh-title">
+        <p class="bbbh-acc">@brownedbutterbakedhouse</p>
+    </div>
+    <img src="website_img/brownbutterbakedhouse.png" alt="brownedbutterbakedhouse image" class="bbbh-img">
+    <div class="bbbh-section">
+        <div class="bbbh-top-content">
+            <p class="bbbh_item-name">Lemon Meringue & Raspberry Valrhona Dark Chocolate Tarts</p>
+            <div class="bbbh-likes-container">
+                <img src="website_img/thumbsup.png" alt="thumbs up" class="bbbh-thumbsup">
+                <p class="bbbh-likes">90</p>
+            </div>
+        </div>
+        <p class="bbbh-text">Prepare to be whisked away on a delightful adventure with the Lemon Meringue & Raspberry Valrhona Dark Chocolate Tarts from this charming little patisserie! 
+            These treats aren't just desserts; they're a love letter to your taste buds.
+            <br></br><br></br><br></br>
+            The Lemon Meringue Tart is like a burst of sunshine on a plate. The buttery crust cradles a tangy lemon curd that's just the right amount of sweet. And that meringue topping? It's like a fluffy cloud of happiness with a perfect golden kiss. Every bite is a little slice of citrusy paradise.
+            Now, let's talk about the Raspberry Valrhona Dark Chocolate Tart – a match made in dessert heaven. The silky Valrhona dark chocolate ganache, mingling with layers of raspberry coulis, creates a symphony of flavors. It's a rollercoaster of rich, bittersweet chocolate and the playful tartness of raspberries. Pure bliss!
+            What makes these tarts so special? It's all in the ingredients. The Valrhona dark chocolate brings a touch of luxury, and the raspberries, oh-so-fresh, add a burst of natural sweetness. It's like they've bottled up joy and put it into these tarts.
+            <br></br><br></br><br></br>
+            And let's not forget about the presentation – each tart is a tiny masterpiece. Swirls of meringue or a cascade of raspberries make them almost too pretty to eat. Almost. Because once you take that first bite, there's no turning back.
+            So, whether you're a dessert enthusiast or just in need of a pick-me-up, these tarts are your ticket to a world of sweetness. It's not just dessert; it's a friendly invitation to treat yourself to a bit of happiness. Get ready for a taste adventure that'll leave you with a sweet smile!
+        </p>
+        <p class="linktopost">@LinkToPost</p>
+
+         <!--map-->
+        <script src="map.js" defer></script>
+         <div id='map'></div>
+
+        <img src="website_img/location-marker.png" alt="marker" class="loc-marker">
+        <p class="loc-address">68 Jln Jurong Kechil, Singapore 598587</p>
+
+        <div class="bbbh-comment-container">
+            <p class="bbbh-comment">Comments</p>
+            <p class="bbbh-comment1">The tarts were AMAZING, I didn’t want to share it with my family after a taste of it.</p>
+            <p class="bbbh-comment2">I tried the tarts for the first time and let me tell you, it was one of the BEST tarts I have tried!</p>
+            <p class="bbbh-comment3">It was good.</p>
+            <p class="bbbh-postdate">Posted on: 23/01/2024</p>
+        </div>
+    </div>
+    <div class="bbbh-comment-section">
+        <form class="bbbh-comment">
+            <input type="text" placeholder="Write a comment">
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+
+    <!--kb-->
+    <div class="kb-title">
+        <p class="kb-acc">@knottedbuns</p>
+    </div>
+    <img src="website_img/kb-img.png" alt="knottedbuns image" class="kb-img">
+    <div class="kb-section">
+        <div class="kb-top-content">
+            <p class="kb_item-name">Personalized Embroidery Letter Hoop</p>
+            <div class="kb-likes-container">
+                <img src="website_img/thumbsup.png" alt="thumbs up" class="kb-thumbsup">
+                <p class="kb-likes">125</p>
+            </div>
+        </div>
+        <p class="kb-text">
+            Dive into the enchanting world of personalized bliss with the Embroidery Letter Hoop – a delightful creation that effortlessly transforms spaces into havens of warmth and individuality.
+            <br></br><br></br><br></br>
+            This little wonder is more than just an embroidery hoop; it's an expression of love and personal connection. 
+            Each carefully chosen stitch weaves a narrative – whether it's your initials, a memorable date, or a word that resonates with your soul. 
+            The result is an infusion of warmth and character that elevates any room it graces.
+            <br></br><br></br><br></br>
+            Crafted with meticulous attention, this hoop is a visual delight. 
+            The harmonious choice of colors and the precision of each stitch underscore the dedication and care that goes into its creation.
+             Hanging on the wall, it's not merely a decor item; it's a tangible piece of heart, radiating love and thoughtful craftsmanship.
+            <br></br><br></br><br></br>
+            Beyond its visual appeal, the Embroidery Letter Hoop serves as an inviting conversation starter.
+            Guests can't help but be drawn to its unique charm, and the moment they learn the personal story behind the embroidery, it becomes a shared experience, fostering connections and memories.
+            <br></br><br></br><br></br>
+            Consider it as a gift, and you're hitting all the right notes. 
+            The personal touch, the thoughtful details – it's a present that transcends material value. 
+            Whether for a friend's birthday, a wedding, or just because, it's a gesture that speaks volumes about the effort put into creating something uniquely meaningful.
+            <br></br><br></br><br></br>
+            In a world dominated by mass-produced items, this Embroidery Letter Hoop emerges as a beacon of authenticity and personalization. 
+            Treat yourself or a loved one to this extraordinary piece of art and let its personalized charm become a cherished part of life's beautiful tapestry. 
+            It's not just embroidery; it's a symphony of stitched bliss waiting to unfold.
+        </p>
+        <p class="linktopost">@LinkToPost</p>
+        <div class="kb-comment-container">
+            <p class="kb-comment">Comments</p>
+            <p class="kb-comment1">Wow, this is really a piece of art! I would love to purchase it :D</p>
+            <p class="kb-comment2">This is so pretty! I’m going to check the store out! Thank you.</p>
+            <p class="kb-comment3">Gorgeous, I would love to see more reviews of these kind of stores.</p>
+            <p class="kb-postdate">Posted on: 10/01/2024</p>
+        </div>
+    </div>
+    <div class="bbbh-comment-section">
+        <form class="bbbh-comment">
+            <input type="text" placeholder="Write a comment">
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+
+    <!--bybeu_co-->
+    <div class="bco-title">
+        <p class="bco-acc">@bybeu_co</p>
+    </div>
+    <img src="website_img/bco-img.png" alt="bybeu_co image" class="bco-img">
+    <div class="bco-section">
+        <div class="bco-top-content">
+            <p class="bco_item-name">Personalized Embroidery Letter Hoop</p>
+            <div class="bco-likes-container">
+                <img src="website_img/thumbsup.png" alt="thumbs up" class="bco-thumbsup">
+                <p class="bco-likes">99</p>
+            </div>
+        </div>
+        <p class="bco-text">
+            Meet your new style sidekick – the Cream Pretzel Bag! 🥨👜 
+            This little wonder isn't just a bag; it's like carrying a piece of joy on your arm. 
+            Let's dive into the delicious details!
+            <br></br><br></br><br></br>
+            First off, can we talk about the pretzel-shaped cuteness? 
+            It's not just a bag; it's a fashion statement that says, "Hey, let's have some fun!" 
+            The cream color adds a touch of sophistication, making it the perfect companion for any outfit, from casual jeans to your favorite dress.
+            <br></br><br></br><br></br>
+            But wait, there's more! It's not just about looks; this bag is a practical dream. 
+            The size is just right – not too big, not too small – just perfect for all your daily essentials. 
+            Sturdy and reliable, it's there for you on everything from a coffee run to a night out with friends.
+            <br></br><br></br><br></br>
+            Now, let's talk about the magic it brings to your day. Ever had a bag that made people smile? The Cream Pretzel Bag is that bag! 
+            It's not just an accessory; it's a conversation starter, a mood lifter, and a sprinkle of joy wherever you go.
+            Whether you're a fashion guru or just someone who loves unique finds, this bag is your new best friend. 
+            It's the kind of accessory that turns heads and makes you the star of your own fashion show. 
+            So, why settle for ordinary when you can carry a Cream Pretzel Bag and make every day a bit more fun? 🌈💕
+        </p>
+        <p class="linktopost">@LinkToPost</p>
+        <div class="bco-comment-container">
+            <p class="bco-comment">Comments</p>
+            <p class="bco-comment1">A classy and chic bag! A must have when it comes to the basics!</p>
+            <p class="bco-comment2">I have been wanting to get one of such bag for myself  THANK YOU, can you review more bags like this?</p>
+            <p class="bco-comment3">BEAUTIFUL! Let me check out their store!</p>
+            <p class="bco-postdate">Posted on: 03/01/2024</p>
+        </div>
+    </div>
+    <div class="bbbh-comment-section">
+        <form class="bbbh-comment">
+            <input type="text" placeholder="Write a comment">
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+
+    <br></br><br></br><br></br>
+    
+    <!--social media icons-->
+    <div class="title-section">
+        <p class="social-media-title">Our Social Media Platforms</p>
+        </div>
+        <div class="social-media-container">
+            <div class="social-media-opt">
+                <img src="website_img/home_ig.jpeg" alt="social media image" class="social-media-img">
+                <p class="social-media-text">timeless_marketSG</p>
+            </div>
+    
+            <div class="social-media-opt">
+                <img src="website_img/home_fb.jpeg" alt="social media image" class="social-media-img">
+                <p class="social-media-text">timeless_marketSG</p>
+            </div>
+    
+            <div class="social-media-opt">
+                <img src="website_img/home_x.jpeg" alt="social media image" class="social-media-img">
+                <p class="social-media-text">timeless_marketSG</p>
+            </div>
+    
+            <div class="social-media-opt">
+                <img src="website_img/home_tt.png" alt="social media image" class="social-media-img">
+                <p class="social-media-text">timeless_marketSG</p>
+            </div>
+        </div> 
+</body>

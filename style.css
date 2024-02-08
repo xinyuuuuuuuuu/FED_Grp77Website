@@ -599,7 +599,7 @@
   background-color: #ffff;
   border: 1px solid #000;
 }
-=======
+
 /* subscribe_cust.html */
 .subscribe_cust-container{
   text-align: center;
@@ -878,4 +878,377 @@ h2{
   text-decoration: none;
   margin-top: 10px; /* Added margin-top for spacing */
 }
+
+/* Stores.html */
+.search-cat{
+  display: flex;
+  align-items: center;
+  justify-content: flex-end; /* align items to right */
+  margin-right: 20px;
+  margin-top: 30px;
+}
+
+.search-cat input{
+  padding: 10px;
+  border: 1px solid #000;
+  border-radius: 10px;
+  width: 180px;
+  height: 30px;
+  margin-top: 5%;
+}
+
+.stores_search-icon{
+  display: inline-block;
+  width: 40px;
+  cursor: pointer;
+  margin-left: 5px;
+}
+
+.intro-text{
+  text-align: center;
+}
+
+.intro-text h1{
+  color: black;
+  font-size: 60px;
+  font-family: 'Overlock', sans-serif;
+  font-style: italic;
+  letter-spacing: 0.5px;
+  margin-top: 2%;
+  font-weight: bold;
+}
+
+.intro-text p{
+  color: black;
+  font-size: 30px;
+  font-family: 'Crimson Text';
+  letter-spacing: -0.5px;
+  margin-top: 2%;
+}
+
+.bbbh-title{
+  background-color: #354F52;
+  padding: 10px;
+}
+
+.bbbh-acc{
+  color: white;
+  font-size: 30px;
+  font-family: 'Overlock', sans-serif;
+  font-style: italic;
+}
+
+.bbbh-img{
+  width: 100%;
+}
+
+.bbbh-section{
+  background-color: white;
+  padding: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; /* align items to the left */
+  overflow-x: hidden;
+  margin-bottom: -30%;
+}
+
+.bbbh-top-content{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.bbbh_item-name{
+  color: black;
+  font-size: 24px;
+  font-family: 'Crimson Text';
+  font-weight: bold;
+  margin-top: -5%;
+}
+
+.bbbh-thumbsup{
+  width: 5%;
+  margin-left: 90%;
+  margin-top: -5%;
+}
+
+.bbbh-likes{
+  color: black;
+  font-size: 25px;
+  font-family: 'Crimson Text';
+  font-weight: bold;
+  margin-top: -5%;
+  margin-left: 96%;
+}
+
+.bbbh-text{
+  color: black;
+  font-size: 25px;
+  font-family: 'Crimson Text';
+  text-align: left;
+}
+
+.linktopost{
+  color: black;
+  font-size: 25px;
+  font-family: 'Crimson Text';
+  text-align: left;
+}
+
+.address-container{
+  text-align: left;
+}
+
+.loc-marker{
+  margin-top: 1%;
+  width: 3%;
+}
+
+.loc-address{
+  color: black;
+  font-family: 'Crimson Text';
+  font-size: 20px;
+  margin-top: -2%;
+  margin-left: 5%;
+}
+
+.bbbh-comment-container{
+  text-align: left;
+}
+
+.bbbh-comment{
+  color: black;
+  font-size: 40px;
+  font-family: 'Crimson Text';
+  font-weight: bold;
+  margin-top: 30%;
+}
+
+.bbbh-comment1,
+.bbbh-comment2,
+.bbbh-comment3{
+  margin-top: 5%;
+  color: black;
+  font-size: 20px;
+  font-family: 'Crimson Text';
+}
+
+.bbbh-postdate{
+  margin-top: 5%;
+  color: black;
+  font-size: 20px;
+  font-family: 'Crimson Text';
+  margin-left: 150%;
+  white-space: nowrap;
+}
+
+.bbbh-comment-section{
+  margin-top: 10%;
+}
+
+.bbbh-comment-section input{
+  width: 100%;
+  padding: 10px;
+  margin: 15px 0;
+  background-color: #F7EDF0;
+}
+
+.bbbh-comment-section button{
+  margin-left: 0; 
+}
+
+.kb-title{
+  margin-top: 5%;
+  background-color: #354F52;
+  padding: 10px;
+}
+
+.kb-acc{
+  color: white;
+  font-size: 30px;
+  font-family: 'Overlock', sans-serif;
+  font-style: italic;
+}
+
+.kb-img{
+  width: 100%;
+}
+
+.kb-section{
+  background-color: white;
+  padding: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; /* align items to the left */
+  overflow-x: hidden;
+  margin-bottom: -30%;
+}
+
+.kb-top-content{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.kb_item-name{
+  color: black;
+  font-size: 24px;
+  font-family: 'Crimson Text';
+  font-weight: bold;
+  margin-top: -5%;
+
+}
+
+.kb-thumbsup{
+  width: 5%;
+  margin-left: 90%;
+  margin-top: -5%;
+}
+
+.kb-likes{
+  color: black;
+  font-size: 25px;
+  font-family: 'Crimson Text';
+  font-weight: bold;
+  margin-top: -5%;
+  margin-left: 96%;
+}
+
+.kb-text{
+  color: black;
+  font-size: 25px;
+  font-family: 'Crimson Text';
+  text-align: left;
+}
+
+.kb-comment-container{
+  text-align: left;
+}
+
+.kb-comment{
+  color: black;
+  font-size: 40px;
+  font-family: 'Crimson Text';
+  font-weight: bold;
+  margin-top: 30%;
+}
+
+.kb-comment1,
+.kb-comment2,
+.kb-comment3{
+  margin-top: 5%;
+  color: black;
+  font-size: 20px;
+  font-family: 'Crimson Text';
+}
+
+.kb-postdate{
+  margin-top: 5%;
+  color: black;
+  font-size: 20px;
+  font-family: 'Crimson Text';
+  margin-left: 200%;
+  white-space: nowrap;
+}
+
+.bco-title{
+  margin-top: 5%;
+  background-color: #354F52;
+  padding: 10px;
+}
+
+.bco-acc{
+  color: white;
+  font-size: 30px;
+  font-family: 'Overlock', sans-serif;
+  font-style: italic;
+}
+
+.bco-img{
+  width: 100%;
+}
+
+.bco-section{
+  background-color: white;
+  padding: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; /* align items to the left */
+  overflow-x: hidden;
+  margin-bottom: -30%;
+}
+
+.bco-top-content{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.bco_item-name{
+  color: black;
+  font-size: 24px;
+  font-family: 'Crimson Text';
+  font-weight: bold;
+  margin-top: -5%;
+
+}
+
+.bco-thumbsup{
+  width: 5%;
+  margin-left: 90%;
+  margin-top: -5%;
+}
+
+.bco-likes{
+  color: black;
+  font-size: 25px;
+  font-family: 'Crimson Text';
+  font-weight: bold;
+  margin-top: -5%;
+  margin-left: 96%;
+}
+
+.bco-text{
+  color: black;
+  font-size: 25px;
+  font-family: 'Crimson Text';
+  text-align: left;
+}
+
+.bco-comment-container{
+  text-align: left;
+}
+
+.bco-comment{
+  color: black;
+  font-size: 40px;
+  font-family: 'Crimson Text';
+  font-weight: bold;
+  margin-top: 30%;
+}
+
+.bco-comment1,
+.bco-comment2,
+.bco-comment3{
+  margin-top: 5%;
+  color: black;
+  font-size: 20px;
+  font-family: 'Crimson Text';
+}
+
+.bco-postdate{
+  margin-top: 5%;
+  color: black;
+  font-size: 20px;
+  font-family: 'Crimson Text';
+  margin-left: 200%;
+  white-space: nowrap;
+}
+
 
