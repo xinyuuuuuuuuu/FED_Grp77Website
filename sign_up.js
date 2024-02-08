@@ -27,6 +27,6 @@ document.addEventListener('DOMContentLoaded', function() {
         });
 
         // Redirect the user to the welcome page
-        window.location.href = "welcome.html"; 
+        // window.location.href = "welcome.html"; 
     });
 });
