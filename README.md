@@ -17,85 +17,84 @@ The "support" page is the final page. This page's objective is to provide a foru
 
 
 # Features
-Feature 1: Subscription/Login/Business Details Form
+Feature 1: Subscription/Login/Business Details Form <br>
 These pages gather appropriate user information and store it in a restdb.io API. First, this allows us to notify subscribers about our latest review and log into their accounts. Secondly, it allows business owners to submit relevant business information so that we can review their products.
 
-Feature 3: Review Posts
+Feature 3: Review Posts <br>
 Reviews on the different local businesses for the users to see and have a better understanding of the product
 
-Feature 4: Map
+Feature 4: Map <br>
 A convenient tool for users to utilize if they want to visit the physical store of the business we reviewed
 
-Feature 5: Comment Section
+Feature 5: Comment Section <br>
 An interactive platform for users to express their thoughts and exchange opinions with other users
 
-Feature 6: Suggestion/Issue Box
+Feature 6: Suggestion/Issue Box <br>
 A platform for users to suggest areas of improvement or businesses they would like us to review next, as well as issues found on the website.
 
 
 # Technologies Used
-1. Figma
+1. Figma <br>
 Figma was used to visualize the website and to provide a direction for how the website should look by creating the wireframes.
 
-3. Visual Studio Code
+3. Visual Studio Code <br>
 Visual Studio Code was used to create the layout and functionality of the website (using languages such as HTML, CSS, and Javascript).
   
-4. restdb.io
+4. restdb.io <br>
 An API was used to store essential information on the website so that it could be used accordingly.
   
-5. Mapbox
+5. Mapbox <br>
 An API is used to show users the physical store location.
 
-6. Canva
+6. Canva <br>
 For quality images
 
 
 # Credits 
-=====_Business Information Submission Page_=====
-Source: [Canva](https://www.bing.com/ck/a?!&&p=3926450b066ab31aJmltdHM9MTcwNzI2NDAwMCZpZ3VpZD0zYmE3NTVjMC1iNzcxLTYwZGItMjU0MS00NjBiYjYzNDYxNTgmaW5zaWQ9NTIxNg&ptn=3&ver=2&hsh=3&fclid=3ba755c0-b771-60db-2541-460bb6346158&psq=canva&u=a1aHR0cHM6Ly93d3cuY2FudmEuY29tLw&ntb=1)
-[Image]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\subscribe_business_img.png")
+=====_Business Information Submission Page_=====<br>
+Source: [Canva](https://www.bing.com/ck/a?!&&p=3926450b066ab31aJmltdHM9MTcwNzI2NDAwMCZpZ3VpZD0zYmE3NTVjMC1iNzcxLTYwZGItMjU0MS00NjBiYjYzNDYxNTgmaW5zaWQ9NTIxNg&ptn=3&ver=2&hsh=3&fclid=3ba755c0-b771-60db-2541-460bb6346158&psq=canva&u=a1aHR0cHM6Ly93d3cuY2FudmEuY29tLw&ntb=1) <br>
+[Image]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\subscribe_business_img.png")<br>
 
 
-=====_Subscribe & Login Page_=====
-Source: [Canva](https://www.bing.com/ck/a?!&&p=3926450b066ab31aJmltdHM9MTcwNzI2NDAwMCZpZ3VpZD0zYmE3NTVjMC1iNzcxLTYwZGItMjU0MS00NjBiYjYzNDYxNTgmaW5zaWQ9NTIxNg&ptn=3&ver=2&hsh=3&fclid=3ba755c0-b771-60db-2541-460bb6346158&psq=canva&u=a1aHR0cHM6Ly93d3cuY2FudmEuY29tLw&ntb=1)
-[Image]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\subscribe_cust_img.png")
+=====_Subscribe & Login Page_===== <br>
+Source: [Canva](https://www.bing.com/ck/a?!&&p=3926450b066ab31aJmltdHM9MTcwNzI2NDAwMCZpZ3VpZD0zYmE3NTVjMC1iNzcxLTYwZGItMjU0MS00NjBiYjYzNDYxNTgmaW5zaWQ9NTIxNg&ptn=3&ver=2&hsh=3&fclid=3ba755c0-b771-60db-2541-460bb6346158&psq=canva&u=a1aHR0cHM6Ly93d3cuY2FudmEuY29tLw&ntb=1) <br>
+[Image]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\subscribe_cust_img.png")<br>
 
-=====_Welcome Page_=====
-Source: [Canva](https://www.bing.com/ck/a?!&&p=3926450b066ab31aJmltdHM9MTcwNzI2NDAwMCZpZ3VpZD0zYmE3NTVjMC1iNzcxLTYwZGItMjU0MS00NjBiYjYzNDYxNTgmaW5zaWQ9NTIxNg&ptn=3&ver=2&hsh=3&fclid=3ba755c0-b771-60db-2541-460bb6346158&psq=canva&u=a1aHR0cHM6Ly93d3cuY2FudmEuY29tLw&ntb=1)
-[Image]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\welcome_img.png")
+=====_Welcome Page_=====<br>
+Source: [Canva](https://www.bing.com/ck/a?!&&p=3926450b066ab31aJmltdHM9MTcwNzI2NDAwMCZpZ3VpZD0zYmE3NTVjMC1iNzcxLTYwZGItMjU0MS00NjBiYjYzNDYxNTgmaW5zaWQ9NTIxNg&ptn=3&ver=2&hsh=3&fclid=3ba755c0-b771-60db-2541-460bb6346158&psq=canva&u=a1aHR0cHM6Ly93d3cuY2FudmEuY29tLw&ntb=1) <br>
+[Image]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\welcome_img.png")<br>
 
-=====_Home Page_=====
-Information on stores reviewed: Generated from [ChatGPT](https://chat.openai.com/)
+=====_Home Page_===== <br>
+Information on stores reviewed: Generated from [ChatGPT](https://chat.openai.com/)<br>
 
-Media:
-Source: [Canva](https://www.bing.com/ck/a?!&&p=3926450b066ab31aJmltdHM9MTcwNzI2NDAwMCZpZ3VpZD0zYmE3NTVjMC1iNzcxLTYwZGItMjU0MS00NjBiYjYzNDYxNTgmaW5zaWQ9NTIxNg&ptn=3&ver=2&hsh=3&fclid=3ba755c0-b771-60db-2541-460bb6346158&psq=canva&u=a1aHR0cHM6Ly93d3cuY2FudmEuY29tLw&ntb=1)
-1. [Home image]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\home_img.png")
-2. [Subscribe image]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\about_us_image_ps.png")
-3. [Business Submit image]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\business_owners_image.png")
+Source: [Canva](https://www.bing.com/ck/a?!&&p=3926450b066ab31aJmltdHM9MTcwNzI2NDAwMCZpZ3VpZD0zYmE3NTVjMC1iNzcxLTYwZGItMjU0MS00NjBiYjYzNDYxNTgmaW5zaWQ9NTIxNg&ptn=3&ver=2&hsh=3&fclid=3ba755c0-b771-60db-2541-460bb6346158&psq=canva&u=a1aHR0cHM6Ly93d3cuY2FudmEuY29tLw&ntb=1) <br>
+1. [Home image]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\home_img.png")<br>
+2. [Subscribe image]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\about_us_image_ps.png")<br>
+3. [Business Submit image]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\business_owners_image.png")<br>
 
-[SlideShow Images]
-Source: [wardrobeofjoy instagram](https://www.instagram.com/p/C242qc-SFNL/?img_index=1)
-1. [wardrobeofjoy]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\fashion_slideshow.png")
+[SlideShow Images]<br>
+Source: [wardrobeofjoy instagram](https://www.instagram.com/p/C242qc-SFNL/?img_index=1)<br>
+1. [wardrobeofjoy]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\fashion_slideshow.png")<br>
 
-Source: [avominsg instagram](https://www.instagram.com/p/CvrIBpPSNBc/?img_index=1)
-2. [avominsg]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\food_slideshow.png")
+Source: [avominsg instagram](https://www.instagram.com/p/CvrIBpPSNBc/?img_index=1)<br>
+2. [avominsg]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\food_slideshow.png")<br>
 
-Source: [kibblesart instagram](https://www.instagram.com/p/Cz71lferajV/)
-3. [kibblesart]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\art_slideshow.png")
+Source: [kibblesart instagram](https://www.instagram.com/p/Cz71lferajV/)<br>
+3. [kibblesart]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\art_slideshow.png")<br>
 
-Source: [anteikustudios instagram](https://www.instagram.com/p/C15xdYHRLt9/?img_index=1)
-4. [anteikustudios]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\thrift_shops_slideshow.png")
+Source: [anteikustudios instagram](https://www.instagram.com/p/C15xdYHRLt9/?img_index=1)<br>
+4. [anteikustudios]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\thrift_shops_slideshow.png")<br>
 
-Source: [injiniousgold instagram](https://www.instagram.com/p/CniWTkLBZyL/)
-5. [injiniousgold]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\jewelry_slideshow.png")
+Source: [injiniousgold instagram](https://www.instagram.com/p/CniWTkLBZyL/)<br>
+5. [injiniousgold]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\jewelry_slideshow.png")<br>
 
-Source: [thebudboxsg instagram](https://www.instagram.com/p/CydDZ1lOP0m/)
-6. [thebudboxsg]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\hobbies_slideshow.png")
+Source: [thebudboxsg instagram](https://www.instagram.com/p/CydDZ1lOP0m/)<br>
+6. [thebudboxsg]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\hobbies_slideshow.png")<br>
 
 
-=====_Specials of the Month Page_=====
-Source:[brownedbutterbakedhouse instagram](https://www.instagram.com/p/CcvBcDHvn_V/)
-1. [brownedbutterbakedhouse]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\sotm_food.png")
+=====_Specials of the Month Page_=====<br>
+Source:[brownedbutterbakedhouse instagram](https://www.instagram.com/p/CcvBcDHvn_V/)<br>
+1. [brownedbutterbakedhouse]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\sotm_food.png")<br>
 
 Source:[knottedbuns instagram](https://www.instagram.com/p/CKbe2OZrHtL/)
 2. [knottedbuns]("C:\Users\65842\OneDrive\Desktop\ID_FED\Ass2\FED_Grp77Website\website_img\sotm_hobbies.png")
