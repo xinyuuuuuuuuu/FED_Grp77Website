@@ -51,16 +51,16 @@ For quality images
 
 
 # Credits 
-=====_Business Information Submission Page_=====<br>
+==========<b>_Business Information Submission Page_</b>==========<br>
 Image Source: [Canva](https://www.bing.com/ck/a?!&&p=3926450b066ab31aJmltdHM9MTcwNzI2NDAwMCZpZ3VpZD0zYmE3NTVjMC1iNzcxLTYwZGItMjU0MS00NjBiYjYzNDYxNTgmaW5zaWQ9NTIxNg&ptn=3&ver=2&hsh=3&fclid=3ba755c0-b771-60db-2541-460bb6346158&psq=canva&u=a1aHR0cHM6Ly93d3cuY2FudmEuY29tLw&ntb=1) <br><br>
 
-=====_Subscribe & Login Page_===== <br>
+==========<b>_Subscribe & Login Page_</b>========== <br>
 Image Source: [Canva](https://www.bing.com/ck/a?!&&p=3926450b066ab31aJmltdHM9MTcwNzI2NDAwMCZpZ3VpZD0zYmE3NTVjMC1iNzcxLTYwZGItMjU0MS00NjBiYjYzNDYxNTgmaW5zaWQ9NTIxNg&ptn=3&ver=2&hsh=3&fclid=3ba755c0-b771-60db-2541-460bb6346158&psq=canva&u=a1aHR0cHM6Ly93d3cuY2FudmEuY29tLw&ntb=1) <br><br>
 
-=====_Welcome Page_=====<br>
+==========<b>_Welcome Page_</b>==========<br>
 Image Source: [Canva](https://www.bing.com/ck/a?!&&p=3926450b066ab31aJmltdHM9MTcwNzI2NDAwMCZpZ3VpZD0zYmE3NTVjMC1iNzcxLTYwZGItMjU0MS00NjBiYjYzNDYxNTgmaW5zaWQ9NTIxNg&ptn=3&ver=2&hsh=3&fclid=3ba755c0-b771-60db-2541-460bb6346158&psq=canva&u=a1aHR0cHM6Ly93d3cuY2FudmEuY29tLw&ntb=1) <br><br>
 
-=====_Home Page_===== <br>
+==========<b>_Home Page_</b>========== <br>
 Information on stores reviewed: Generated from [ChatGPT](https://chat.openai.com/)<br>
 
 Image Source: [Canva](https://www.bing.com/ck/a?!&&p=3926450b066ab31aJmltdHM9MTcwNzI2NDAwMCZpZ3VpZD0zYmE3NTVjMC1iNzcxLTYwZGItMjU0MS00NjBiYjYzNDYxNTgmaW5zaWQ9NTIxNg&ptn=3&ver=2&hsh=3&fclid=3ba755c0-b771-60db-2541-460bb6346158&psq=canva&u=a1aHR0cHM6Ly93d3cuY2FudmEuY29tLw&ntb=1) <br><br>
@@ -74,15 +74,15 @@ Image Source: 5. [injiniousgold instagram](https://www.instagram.com/p/CniWTkLBZ
 Image Source: 6. [thebudboxsg instagram](https://www.instagram.com/p/CydDZ1lOP0m/)<br><br>
 
 
-=====<b>_Specials of the Month Page_</b>=====<br>
+==========<b>_Specials of the Month Page_</b>==========<br>
 Image Source: 1. [brownedbutterbakedhouse instagram](https://www.instagram.com/p/CcvBcDHvn_V/)<br><br>
 Image Source: 2. [knottedbuns instagram](https://www.instagram.com/p/CKbe2OZrHtL/)<br>
 Image Source: 3. [bybeu_co instagram](https://www.instagram.com/p/C2CPOqQSB7O/)<br><br>
 
 
-=====_Stores Page_=====<br>
+==========<b>_Stores Page_</b>==========<br>
 Review Content:  Generated from [ChatGPT](https://chat.openai.com/)<br><br>
 
 
-=====_Stores Page_=====<br>
+==========<b>_Stores Page_</b>==========<br>
 Image Source: [Canva](https://www.bing.com/ck/a?!&&p=3926450b066ab31aJmltdHM9MTcwNzI2NDAwMCZpZ3VpZD0zYmE3NTVjMC1iNzcxLTYwZGItMjU0MS00NjBiYjYzNDYxNTgmaW5zaWQ9NTIxNg&ptn=3&ver=2&hsh=3&fclid=3ba755c0-b771-60db-2541-460bb6346158&psq=canva&u=a1aHR0cHM6Ly93d3cuY2FudmEuY29tLw&ntb=1)
