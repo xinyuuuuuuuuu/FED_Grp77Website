@@ -16,7 +16,7 @@ The next is the "stores" page. The main focus of the website is this page. On th
 
 The "support" page is the final page. This page's objective is to provide a forum for users to offer suggestions for this website or if there are other local businesses they would like to see us review. They can also report any bugs or issues they discover with the website here.
 
-[Link to website wireframe](https://www.figma.com/file/5tBXLHYk3Rgs9WfJA3LsEN/timeless_market?type=design&node-id=0%3A1&mode=design&t=ExJWR0lb5nnvrq6l-1)
+[Link to website wireframe](https://www.figma.com/file/5tBXLHYk3Rgs9WfJA3LsEN/timeless_market?type=design&node-id=0%3A1&mode=design&t=3zyXXQV6iJewyHjC-1)
 
 <hr>
 
