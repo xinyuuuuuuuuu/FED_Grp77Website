@@ -1,6 +1,7 @@
 # FED_Grp77Website
 "Timeless Market" is the name of our website. As the name implies, our website ought to be a place where customers can discover goods that endure in a world that is constantly changing. Nonetheless, things will always pass unnoticed if they are not brought to people's attention, such as the amazing local businesses that provide customers with their amazing products and services. Hence, our website aims to give these local businesses a place for their products to shine and also for consumers to have a look at the unnoticed treasure in Sigapore through our reviews. We display the various local businesses in various categories on our website, including fashion, hobbies, art, thrift stores, food, and jewelry. We will primarily provide reviews of the stores so that users have the opportunity to experience the products through our eyes and reviews. In an effort to be communicative with our users, we offer features like a comment section where users can express their ideas and opinions to us and other users on the website. We also have a page where users can report problems they've encountered with the website or leave recommendations for improvements.
 
+<hr>
 
 # Design Process
 Our goal is for small local businesses in Singapore to be discovered by more people so that they may gain customers and build their reputation. "How do we capture the hearts of the users so that they may be interested in the businesses?" is something we thought a lot about. Eventually, we came to the conclusion that people are most influenced by the reviews and words of others. If we were to give a sincere and genuine review for these local businesses, the users would be able to see it and give these local businesses a chance by trying out their products. With that in mind, we started designing the website. This website is divided into four sections.
@@ -15,6 +16,7 @@ The "support" page is the final page. This page's objective is to provide a foru
 
 [Link to website wireframe]()
 
+<hr>
 
 # Features
 Feature 1: Subscription/Login/Business Details Form <br>
@@ -32,6 +34,7 @@ An interactive platform for users to express their thoughts and exchange opinion
 Feature 6: Suggestion/Issue Box <br>
 A platform for users to suggest areas of improvement or businesses they would like us to review next, as well as issues found on the website.
 
+<hr>
 
 # Technologies Used
 1. Figma <br>
@@ -49,19 +52,19 @@ An API is used to show users the physical store location.
 6. Canva <br>
 For quality images
 
+<hr>
 
 # Credits 
-<b>_Business Information Submission Page_</b><br>
-<hr>
+<h1><b>_Business Information Submission Page_</b><br></h1>
 Image Source: [Canva](https://www.bing.com/ck/a?!&&p=3926450b066ab31aJmltdHM9MTcwNzI2NDAwMCZpZ3VpZD0zYmE3NTVjMC1iNzcxLTYwZGItMjU0MS00NjBiYjYzNDYxNTgmaW5zaWQ9NTIxNg&ptn=3&ver=2&hsh=3&fclid=3ba755c0-b771-60db-2541-460bb6346158&psq=canva&u=a1aHR0cHM6Ly93d3cuY2FudmEuY29tLw&ntb=1) <br><br>
 
-==========<b>_Subscribe & Login Page_</b>========== <br>
+<b>_Subscribe & Login Page_</b><br>
 Image Source: [Canva](https://www.bing.com/ck/a?!&&p=3926450b066ab31aJmltdHM9MTcwNzI2NDAwMCZpZ3VpZD0zYmE3NTVjMC1iNzcxLTYwZGItMjU0MS00NjBiYjYzNDYxNTgmaW5zaWQ9NTIxNg&ptn=3&ver=2&hsh=3&fclid=3ba755c0-b771-60db-2541-460bb6346158&psq=canva&u=a1aHR0cHM6Ly93d3cuY2FudmEuY29tLw&ntb=1) <br><br>
 
-==========<b>_Welcome Page_</b>==========<br>
+<b>_Welcome Page_</b><br>
 Image Source: [Canva](https://www.bing.com/ck/a?!&&p=3926450b066ab31aJmltdHM9MTcwNzI2NDAwMCZpZ3VpZD0zYmE3NTVjMC1iNzcxLTYwZGItMjU0MS00NjBiYjYzNDYxNTgmaW5zaWQ9NTIxNg&ptn=3&ver=2&hsh=3&fclid=3ba755c0-b771-60db-2541-460bb6346158&psq=canva&u=a1aHR0cHM6Ly93d3cuY2FudmEuY29tLw&ntb=1) <br><br>
 
-==========<b>_Home Page_</b>========== <br>
+<b>_Home Page_</b><br>
 Information on stores reviewed: Generated from [ChatGPT](https://chat.openai.com/)<br>
 
 Image Source: [Canva](https://www.bing.com/ck/a?!&&p=3926450b066ab31aJmltdHM9MTcwNzI2NDAwMCZpZ3VpZD0zYmE3NTVjMC1iNzcxLTYwZGItMjU0MS00NjBiYjYzNDYxNTgmaW5zaWQ9NTIxNg&ptn=3&ver=2&hsh=3&fclid=3ba755c0-b771-60db-2541-460bb6346158&psq=canva&u=a1aHR0cHM6Ly93d3cuY2FudmEuY29tLw&ntb=1) <br><br>
@@ -75,15 +78,15 @@ Image Source: 5. [injiniousgold instagram](https://www.instagram.com/p/CniWTkLBZ
 Image Source: 6. [thebudboxsg instagram](https://www.instagram.com/p/CydDZ1lOP0m/)<br><br>
 
 
-==========<b>_Specials of the Month Page_</b>==========<br>
+<b>_Specials of the Month Page_</b><br>
 Image Source: 1. [brownedbutterbakedhouse instagram](https://www.instagram.com/p/CcvBcDHvn_V/)<br><br>
 Image Source: 2. [knottedbuns instagram](https://www.instagram.com/p/CKbe2OZrHtL/)<br>
 Image Source: 3. [bybeu_co instagram](https://www.instagram.com/p/C2CPOqQSB7O/)<br><br>
 
 
-==========<b>_Stores Page_</b>==========<br>
+<b>_Stores Page_</b><br>
 Review Content:  Generated from [ChatGPT](https://chat.openai.com/)<br><br>
 
 
-==========<b>_Stores Page_</b>==========<br>
+<b>_Stores Page_</b><br>
 Image Source: [Canva](https://www.bing.com/ck/a?!&&p=3926450b066ab31aJmltdHM9MTcwNzI2NDAwMCZpZ3VpZD0zYmE3NTVjMC1iNzcxLTYwZGItMjU0MS00NjBiYjYzNDYxNTgmaW5zaWQ9NTIxNg&ptn=3&ver=2&hsh=3&fclid=3ba755c0-b771-60db-2541-460bb6346158&psq=canva&u=a1aHR0cHM6Ly93d3cuY2FudmEuY29tLw&ntb=1)
