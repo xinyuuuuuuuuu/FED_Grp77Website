@@ -51,7 +51,8 @@ For quality images
 
 
 # Credits 
-==========<b>_Business Information Submission Page_</b>==========<br>
+<b>_Business Information Submission Page_</b><br>
+<hr>
 Image Source: [Canva](https://www.bing.com/ck/a?!&&p=3926450b066ab31aJmltdHM9MTcwNzI2NDAwMCZpZ3VpZD0zYmE3NTVjMC1iNzcxLTYwZGItMjU0MS00NjBiYjYzNDYxNTgmaW5zaWQ9NTIxNg&ptn=3&ver=2&hsh=3&fclid=3ba755c0-b771-60db-2541-460bb6346158&psq=canva&u=a1aHR0cHM6Ly93d3cuY2FudmEuY29tLw&ntb=1) <br><br>
 
 ==========<b>_Subscribe & Login Page_</b>========== <br>
