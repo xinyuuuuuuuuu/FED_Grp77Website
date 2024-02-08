@@ -1244,12 +1244,12 @@ h2{
   font-family: 'Crimson Text';
 }
 
-.bco-postdate{
+.bco-post-date{
   margin-top: 5%;
   color: black;
   font-size: 20px;
   font-family: 'Crimson Text';
-  margin-left: 200%;
+  margin-left: 130%;
   white-space: nowrap;
 }
 
